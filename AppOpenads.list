@@ -1,38 +1,29 @@
-HOST-SUFFIX,aw-s.tripcdn.com,Advertising
+# ad
+host-keyword, map.baidu.com, Advertising
+host-keyword, adv.ccb.com, Advertising
+host-keyword, mbads.paas.cmbchina.com, Advertising
+host-keyword, ad.12306.cn, Advertising
+host-keyword, toutiao, Advertising
+host-keyword, getui.com, Advertising
+host-keyword, www.qchannel01.cn, Advertising
+
+# ctrip
 host, aw-s.tripcdn.com, Advertising
 host, ws-s.tripcdn.cn, Advertising
 host, im3.ctrip.com, Advertising
-host-suffix, cmbchina.com, direct
-host, ocsp.pki.goog, proxy
-host-keyword, hoyoverse, proxy
-host-suffix, mob.com, Hoyo
-host-keyword, -toutiao, Advertising
-host-suffix, share.mob.com, Hoyo
-host-suffix, gm.mob.com, Hoyo
-host, cpush.ctrip.com, reject
-host-keyword, overseauspider.yuanshen.com, Hoyo
-ip-cidr, 8.209.211.0/22, Hoyo
-host-keyword, dispatch, Hoyo
-host, mlvbdc.live.qcloud.com, reject
-host, acs.m.taobao.com, reject
-host-keyword, img-ys011.didistatic.com, reject
-host-keyword, bing.com, Apple
-host-keyword, mzstatic, Apple
-host-keyword, youtube, HK
-host-keyword, paypal, US
-host-keyword, icloud, Apple
-host-keyword, apple, Apple
-host-keyword, hoyolab, proxy
-host-keyword, getui.com, reject
-host-keyword, ut.taobao.com, reject
-host-keyword, mpush-api.aliyun.com, reject
-host-keyword, amdc.m.taobao.com, reject
-host-keyword, mbads.paas.cmbchina.com, reject
+host, cpush.ctrip.com, Advertising
+
+# tencent
+host, mlvbdc.live.qcloud.com, Advertising
 host-keyword, fusion.qq.com, reject
-host-keyword, adt.xdrig.com, reject
-host-keyword, www.qchannel01.cn, reject
-host-keyword, adashx.m.taobao.com, reject
-host-keyword, map.baidu.com, reject
-host-keyword, adv.ccb.com, reject
-host-keyword, ad.12306.cn, reject
-host, sea.mihoyo.com, proxy
+
+# ali
+host, acs.m.taobao.com, Advertising
+host, ut.taobao.com, Advertising
+host, mpush-api.aliyun.com, Advertising
+host, amdc.m.taobao.com, Advertising
+host, adashx.m.taobao.com, Advertising
+
+#didi
+host-keyword, img-ys011.didistatic.com, Advertising
+host-keyword, adt.xdrig.com, Advertising
