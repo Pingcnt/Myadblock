@@ -15,7 +15,7 @@ host, cpush.ctrip.com, Advertising
 
 # tencent
 host, mlvbdc.live.qcloud.com, Advertising
-host-keyword, fusion.qq.com, reject
+host-keyword, fusion.qq.com, Advertising
 
 # ali
 host, acs.m.taobao.com, Advertising
