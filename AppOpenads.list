@@ -27,3 +27,14 @@ host, adashx.m.taobao.com, Advertising
 #didi
 host-keyword, img-ys011.didistatic.com, Advertising
 host-keyword, adt.xdrig.com, Advertising
+
+# genshin
+ip-cidr, 8.209.211.0/22, Hoyo
+host-keyword, hoyoverse, proxy
+host-keyword, hoyolab, proxy
+host-keyword, sea.mihoyo.com, proxy
+host-keyword, dispatch, Hoyo
+host-suffix, mob.com, Hoyo
+host-suffix, share.mob.com, Hoyo
+host-suffix, gm.mob.com, Hoyo
+host-suffix, overseauspider.yuanshen.com, Hoyo
