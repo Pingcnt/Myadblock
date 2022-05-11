@@ -1,10 +1,7 @@
 HOST-SUFFIX,aw-s.tripcdn.com,Advertising
 host, aw-s.tripcdn.com, Advertising
 host, ws-s.tripcdn.cn, Advertising
--host, youimg1.c-ctrip.com, Advertising
 host, im3.ctrip.com, Advertising
--host, dimg04.c-ctrip.com, Advertising
--host, ma-adx.ctrip.com, reject
 host-suffix, cmbchina.com, direct
 host, ocsp.pki.goog, proxy
 host-keyword, hoyoverse, proxy
@@ -13,7 +10,6 @@ host-keyword, -toutiao, Advertising
 host-suffix, share.mob.com, Hoyo
 host-suffix, gm.mob.com, Hoyo
 host, cpush.ctrip.com, reject
--host-keyword, gstatic, reject
 host-keyword, overseauspider.yuanshen.com, Hoyo
 ip-cidr, 8.209.211.0/22, Hoyo
 host-keyword, dispatch, Hoyo
