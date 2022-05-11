@@ -1,7 +1,6 @@
 # NAME: Myadblock
 # AUTHOR: Pingcnt
 # REPO: https://github.com/Pingcnt/Myadblock
-# UPDATED: 2022-05-11
 # HOST-SUFFIX: 1
 # TOTAL: 1
-HOST,aw-s.tripcdn.com,Advertising
+HOST-SUFFIX,aw-s.tripcdn.com,Advertising
