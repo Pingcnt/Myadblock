@@ -3,6 +3,8 @@ host-keyword, map.baidu.com, Advertising
 host-keyword, adv.ccb.com, Advertising
 host-keyword, mbads.paas.cmbchina.com, Advertising
 host-keyword, ad.12306.cn, Advertising
+host-keyword, link.12306.cn, Advertising
+host-keyword, exservice.12306.cn, Advertising
 host-keyword, toutiao, Advertising
 host-keyword, getui.com, Advertising
 host-keyword, www.qchannel01.cn, Advertising
@@ -13,10 +15,14 @@ host, aw-s.tripcdn.com, Advertising
 host, ws-s.tripcdn.cn, Advertising
 host, im3.ctrip.com, Advertising
 host, cpush.ctrip.com, Advertising
+host, www.ctrip.com, Direct
+host-suffix, ma-adx.ctrip.com, Advertising
+host-suffix, c-ctrip.com, Advertising
 
 # tencent
 host, mlvbdc.live.qcloud.com, Advertising
 host-keyword, fusion.qq.com, Advertising
+host-keyword, myqcloud, Advertising
 
 # ali
 host, acs.m.taobao.com, Advertising
@@ -24,6 +30,7 @@ host, ut.taobao.com, Advertising
 host, mpush-api.aliyun.com, Advertising
 host, amdc.m.taobao.com, Advertising
 host, adashx.m.taobao.com, Advertising
+host-suffix, adash-emas.cn-hangzhou.aliyuncs.com, Advertising
 
 #didi
 host-keyword, img-ys011.didistatic.com, Advertising
