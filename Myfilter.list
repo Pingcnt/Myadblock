@@ -27,6 +27,8 @@ host, mlvbdc.live.qcloud.com, Advertising
 host-keyword, fusion.qq.com, Advertising
 host-keyword, myqcloud, Advertising
 host, cgi.connect.qq.com, Advertising
+host, oth.bls.mdt.qq.com, Advertising
+host, shortconn.im.qcloud.com, Advertising
 
 # ali
 host, acs.m.taobao.com, Advertising
