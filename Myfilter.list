@@ -26,6 +26,7 @@ host-suffix, c-ctrip.com, Advertising
 host, mlvbdc.live.qcloud.com, Advertising
 host-keyword, fusion.qq.com, Advertising
 host-keyword, myqcloud, Advertising
+host, cgi.connect.qq.com, Advertising
 
 # ali
 host, acs.m.taobao.com, Advertising
@@ -38,6 +39,13 @@ host-suffix, adash-emas.cn-hangzhou.aliyuncs.com, Advertising
 #didi
 host-keyword, img-ys011.didistatic.com, Advertising
 host-keyword, adt.xdrig.com, Advertising
+host, conf.diditaxi.com.cn, Advertising
+host, apm.xiaojukeji.com, Advertising
+host, omgup1.xiaojukeji.com, Advertising
+host, omgup2.xiaojukeji.com, Advertising
+host, omgup.xiaojukeji.com, Advertising
+host, guard.sec.xiaojukeji.com, Advertising
+host, image01.joying.com, Advertising
 
 # genshin
 ip-cidr, 8.209.211.0/22, Hoyo
