@@ -60,3 +60,6 @@ host-suffix, mob.com, Hoyo
 host-suffix, share.mob.com, Hoyo
 host-suffix, gm.mob.com, Hoyo
 host-suffix, overseauspider.yuanshen.com, Hoyo
+
+# hulu
+host-keyword, hulu, US
