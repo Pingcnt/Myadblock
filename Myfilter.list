@@ -49,6 +49,8 @@ host, omgup2.xiaojukeji.com, Advertising
 host, omgup.xiaojukeji.com, Advertising
 host, guard.sec.xiaojukeji.com, Advertising
 host, image01.joying.com, Advertising
+host-suffix, gwp.xiaojukeji.com, Advertising
+host-suffix, ct.xiaojukeji.com, Advertising
 
 # genshin
 ip-cidr, 8.209.211.0/22, Hoyo
