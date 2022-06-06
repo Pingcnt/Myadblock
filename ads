@@ -1,4 +1,4 @@
-
+# ads filter
 
 # tencent
 host, mlvbdc.live.qcloud.com, Advertising
@@ -8,6 +8,45 @@ host, cgi.connect.qq.com, Advertising
 host, oth.bls.mdt.qq.com, Advertising
 host, shortconn.im.qcloud.com, Advertising
 
+# > 高德
+HOST-SUFFIX, adiu.amap.com, Advertising
+HOST, aboard.apilocate.amap.com, Advertising
+HOST, apiinit.amap.com, Advertising
+HOST, icloud-amap.com, Advertising
+HOST, logs.amap.com, Advertising
+HOST-SUFFIX, dualstack-logs.amap.com, Advertising
+HOST-SUFFIX, logs.amap.com, Advertising
+HOST-SUFFIX, optimus-ads.amap.com, Advertising
+HOST-SUFFIX, page.amap.com, Advertising
+HOST, optimus-ads.amap.com, Advertising
+HOST, optimus-ads.amap.com.w.alikunlun.com, Advertising
+HOST-SUFFIX, shouji.sougou.com, Advertising
+HOST, u51.me, Advertising
+HOST-SUFFIX, u51.me, Advertising
+
+# 交管12123
+host, static.122.gov.cn, Advertising
+ip-cidr, 203.107.1.1/24, Advertising
+HOST-SUFFIX, v3.fstats.xyz, Advertising
+HOST-SUFFIX, wss.haoyundmn.com, Advertising
+HOST-SUFFIX, new.xiongzhangad.com, Advertising
+HOST-SUFFIX, alexametrics.com, Advertising
+HOST-KEYWORD, in-page-push, Advertising
+
+# 哔哩哔哩
+HOST-SUFFIX, cm.bilibili.com, Advertising
+host-keyword, api.sobot.com, Advertising
+HOST-SUFFIX, cm.ad.bilibili.com, Advertising
+HOST-SUFFIX, cm.adcommon.bilibili.com, Advertising
+HOST-SUFFIX, cm.game.bilibili.com, Advertising
+HOST-SUFFIX, cm.track.biligame.bilibili.com, Advertising
+
+# douyu
+HOST-SUFFIX, dotcounter.douyutv.com, Advertising
+HOST-SUFFIX, g.wan.douyu.com, Advertising
+HOST-SUFFIX, wan.douyu.com, Advertising
+
+# 腾讯
 HOST-SUFFIX, news.ssp.qq.com, Advertising
 HOST-SUFFIX, news.l.qq.com, Advertising
 HOST-SUFFIX, activeqq.3g.qq.com, Advertising
@@ -109,5 +148,217 @@ HOST, pgdt.ugdtimg.com, Advertising
 HOST, splashqqlive.gtimg.com, Advertising
 HOST, vv.video.qq.com, Advertising
 HOST, wa.gtimg.com, Advertising
-#HOST, wxsnsdy.wxs.qq.com, Advertising
-#HOST, wxsnsdythu
+
+# ali
+host, acs.m.taobao.com, Advertising
+host, ut.taobao.com, Advertising
+host, mpush-api.aliyun.com, Advertising
+host, amdc.m.taobao.com, Advertising
+host, adashx.m.taobao.com, Advertising
+HOST-SUFFIX, oss-accelerate.aliyuncs.com, Advertising
+HOST-SUFFIX, unidesk.alicdn.com, Advertising
+HOST-SUFFIX, afp.alicdn.com, Advertising
+HOST-SUFFIX, afpmm.alicdn.com, Advertising
+HOST-SUFFIX, crm-eve.b2b.alibaba-inc.com, Advertising
+HOST-SUFFIX, g.aligames.com, Advertising
+HOST-SUFFIX, gen.alicdn.com, Advertising
+HOST-SUFFIX, gma.alicdn.com, Advertising
+HOST-SUFFIX, oa-panther.data.aliyun.com, Advertising
+HOST-SUFFIX, ooss.oss.aliyuncs.com, Advertising
+HOST-SUFFIX, p4psearch.china.alibaba.com, Advertising
+HOST-SUFFIX, strip.alicdn.com, Advertising
+HOST-SUFFIX, strip.taobaocdn.com, Advertising
+HOST-SUFFIX, taobaoaliyun.cn, Advertising
+HOST-SUFFIX,adash.man.aliyuncs.com, Advertising
+
+
+
+# 百度
+HOST-SUFFIX, duapps.com, Advertising
+HOST-SUFFIX, cpro.baidu.com, Advertising
+HOST-SUFFIX, pos.baidu.com, Advertising
+HOST, afd.baidu.com, Advertising
+HOST, als.baidu.com, Advertising
+HOST, duclick.baidu.com, Advertising
+HOST, mobads.baidu.com, Advertising
+HOST, mobads-logs.baidu.com, Advertising
+HOST, nadvideo2.baidu.com, Advertising
+HOST, nsclick.baidu.com, Advertising
+HOST-SUFFIX, bce.baidu.com, Advertising
+HOST-SUFFIX, bar.baidu.com, Advertising
+HOST-SUFFIX, baiduyubaidu.com, Advertising
+HOST-SUFFIX, baidutv.baidu.com, Advertising
+HOST-SUFFIX, baichuan.baidu.com, Advertising
+HOST-SUFFIX, appc.baidu.com, Advertising
+HOST-SUFFIX, anquan.baidu.com, Advertising
+HOST-SUFFIX, adscdn.baidu.com, Advertising
+HOST-SUFFIX, adm.baidu.com, Advertising
+HOST-SUFFIX, ad.player.baidu.com, Advertising
+HOST-SUFFIX, a.baidu.com, Advertising
+HOST-SUFFIX, antivirus.baidu.com, Advertising
+HOST-SUFFIX, baifen.music.baidu.com, Advertising
+HOST-SUFFIX, banlv.baidu.com, Advertising
+HOST-SUFFIX, cm.baidu.com, Advertising
+HOST-SUFFIX, cpro.zhidao.baidu.com, Advertising
+HOST-SUFFIX, cleaner.baidu.com, Advertising
+HOST-SUFFIX, cjhq.baidu.com, Advertising
+HOST-SUFFIX, cb.baidu.com, Advertising
+HOST-SUFFIX, c.baidu.com, Advertising
+HOST-SUFFIX, btlaunch.baidu.com, Advertising
+HOST-SUFFIX, bdplus.baidu.com, Advertising
+HOST-SUFFIX, cbjs.baidu.com, Advertising
+HOST-SUFFIX, cpro2.baidu.com, Advertising
+HOST-SUFFIX, cpu-admin.baidu.com, Advertising
+# > 百度贴吧屏蔽域名dns查询
+IP-CIDR, 180.76.76.200/32, REJECT
+# > 百度贴吧屏蔽ws(副作用:消息通知功能失效, 需手动进入查看), 强制帖子接口走http
+HOST, im.tieba.baidu.com, REJECT
+## /*  
+HOST-SUFFIX, 10086.cn.baidu.cdn.yiwk.com, Advertising
+HOST-SUFFIX, 360baidus.com, Advertising
+HOST-SUFFIX, app.ibaiducdn.com, Advertising
+HOST-SUFFIX, baidu.cybcyw.com, Advertising
+HOST-SUFFIX, baidu.dsp.tansuotv.com, Advertising
+HOST-SUFFIX, baidu.greenxf.cn, Advertising
+HOST-SUFFIX, baidu.jz5u.net, Advertising
+HOST-SUFFIX, baiduace.com, Advertising
+HOST-SUFFIX, baidujs.cnys.com, Advertising
+HOST-SUFFIX, baidulao.com, Advertising
+HOST-SUFFIX, baidut.github.io, Advertising
+HOST-SUFFIX, baidu-union-js.xiachufang.com, Advertising
+HOST-SUFFIX, baidu-union-pos.xiachufang.com, Advertising
+HOST-SUFFIX, baiduzhidahao.cc, Advertising
+HOST-SUFFIX, cpro.baidu.cn, Advertising
+HOST-SUFFIX, crs.baidu.com, Advertising
+HOST-SUFFIX, datax.baidu.com, Advertising
+HOST-SUFFIX, dl.client.baidu.com, Advertising
+HOST-SUFFIX, dl.ops.baidu.com, Advertising
+HOST-SUFFIX, dl1sw.baidu.com, Advertising
+HOST-SUFFIX, dl2.bav.baidu.com, Advertising
+HOST-SUFFIX, dlsw.baidu.com, Advertising
+HOST-SUFFIX, dlsw.br.baidu.com, Advertising
+HOST-SUFFIX, dl-vip.bav.baidu.com, Advertising
+HOST-SUFFIX, dl-vip.pcfaster.baidu.co.th, Advertising
+HOST-SUFFIX, download.bav.baidu.com, Advertising
+HOST-SUFFIX, download.sd.baidu.com, Advertising
+HOST-SUFFIX, drmcmm.baidu.com, Advertising
+HOST-SUFFIX, duiwai.baidu.com, Advertising
+HOST-SUFFIX, dxp.baidu.com, Advertising
+HOST-SUFFIX, dzl.baidu.com, Advertising
+HOST-SUFFIX, e.baidu.com, Advertising
+HOST-SUFFIX, eclick.baidu.com, Advertising
+HOST-SUFFIX, eiv.baidu.com, Advertising
+HOST-SUFFIX, em.baidu.com, Advertising
+HOST-SUFFIX, entry.baidu.com, Advertising
+HOST-SUFFIX, ers.baidu.com, Advertising
+HOST-SUFFIX, fclick.baidu.com, Advertising
+HOST-SUFFIX, feed.baidu.com, Advertising
+HOST-SUFFIX, fexclick.baidu.com, Advertising
+HOST-SUFFIX, g.baidu.com, Advertising
+HOST-SUFFIX, gimg.baidu.com, Advertising
+HOST-SUFFIX, guanjia.baidu.com, Advertising
+HOST-SUFFIX, hc.baidu.com, Advertising
+HOST-SUFFIX, hdj.baidu.com, Advertising
+HOST-SUFFIX, hpd.baidu.com, Advertising
+HOST-SUFFIX, idm-su.baidu.com, Advertising
+HOST-SUFFIX, iebar.baidu.com, Advertising
+HOST-SUFFIX, ikcode.baidu.com, Advertising
+HOST-SUFFIX, iwanad.baidu.com, Advertising
+HOST-SUFFIX, j.br.baidu.com, Advertising
+HOST-SUFFIX, jb.mbaidu.top, Advertising
+HOST-SUFFIX, js.mbaidu.top, Advertising
+HOST-SUFFIX, kstj.baidu.com, Advertising
+HOST-SUFFIX, m.baidu.com.yiqisee.cn, Advertising
+HOST-SUFFIX, m.baidu.com.zhiduo.org, Advertising
+HOST-SUFFIX, m1.baidu.com, Advertising
+HOST-SUFFIX, ma.baidu.com, Advertising
+HOST-SUFFIX, mpro.baidu.com, Advertising
+HOST-SUFFIX, msite.baidu.com, Advertising
+HOST-SUFFIX, mssp.baidu.com, Advertising
+HOST-SUFFIX, mtj.baidu.com, Advertising
+HOST-SUFFIX, neirong.baidu.com, Advertising
+HOST-SUFFIX, nlog.baidu.com, Advertising
+HOST-SUFFIX, nsclickvideo.baidu.com, Advertising
+HOST-SUFFIX, openrcv.baidu.com, Advertising
+HOST-SUFFIX, paimgcdn.baidu.com, Advertising
+HOST-SUFFIX, pc.videoclick.baidu.com, Advertising
+HOST-SUFFIX, push.zhanzhang.baidu.com, Advertising
+HOST-SUFFIX, qianclick.baidu.com, Advertising
+HOST-SUFFIX, release.baidu.com, Advertising
+HOST-SUFFIX, river.zhidao.baidu.com, Advertising
+HOST-SUFFIX, rj.baidu.com, Advertising
+HOST-SUFFIX, rplog.baidu.com, Advertising
+HOST-SUFFIX, s.baidu.com, Advertising
+HOST-SUFFIX, sclick.baidu.com, Advertising
+HOST-SUFFIX, sestat.baidu.com, Advertising
+HOST-SUFFIX, shadu.baidu.com, Advertising
+HOST-SUFFIX, sobar.baidu.com, Advertising
+HOST-SUFFIX, sobartop.baidu.com, Advertising
+HOST-SUFFIX, spcode.baidu.com, Advertising
+HOST-SUFFIX, tk.baidu.com, Advertising
+HOST-SUFFIX, tkweb.baidu.com, Advertising
+HOST-SUFFIX, toolbar.baidu.com, Advertising
+HOST-SUFFIX, tuijian.baidu.com, Advertising
+HOST-SUFFIX, tuisong.baidu.com, Advertising
+HOST-SUFFIX, ucstat.baidu.com, Advertising
+HOST-SUFFIX, ulic.baidu.com, Advertising
+HOST-SUFFIX, ulog.imap.baidu.com, Advertising
+HOST-SUFFIX, union.baidu.com, Advertising
+HOST-SUFFIX, union.baidustatic.guannin.com, Advertising
+HOST-SUFFIX, unionimage.baidu.com, Advertising
+HOST-SUFFIX, utility.baidu.com, Advertising
+HOST-SUFFIX, utk.baidu.com, Advertising
+HOST-SUFFIX, videopush.baidu.com, Advertising
+HOST-SUFFIX, w.gdown.baidu.com, Advertising
+HOST-SUFFIX, w.x.baidu.com, Advertising
+HOST-SUFFIX, wangmeng.baidu.com, Advertising
+HOST-SUFFIX, weishi.baidu.com, Advertising
+HOST-SUFFIX, wisepush.video.baidu.com, Advertising
+HOST-SUFFIX, wm.baidu.com, Advertising
+HOST-SUFFIX, yingxiao.baidu.com, Advertising
+HOST-SUFFIX, znsv.baidu.com, Advertising
+HOST-SUFFIX, baidustatic.com, Advertising
+HOST-SUFFIX, afd.baidu.com, Advertising
+HOST-SUFFIX, als.baidu.com, Advertising
+HOST-SUFFIX, duclick.baidu.com, Advertising
+HOST-SUFFIX, hm.baidu.com, Advertising
+HOST-SUFFIX, hmma.baidu.com, Advertising
+HOST-SUFFIX, mobads.baidu.com, Advertising
+HOST-SUFFIX, mobads-logs.baidu.com, Advertising
+HOST-SUFFIX, nsclick.baidu.com, Advertising
+HOST, hm.baidu.com, Advertising
+HOST, hmma.baidu.com, Advertising
+
+# 谷歌
+HOST-SUFFIX, google-analytics.com, Advertising
+HOST, safebrowsing.googleapis.com, Advertising
+HOST-SUFFIX, doubleclick.net, Advertising
+HOST-SUFFIX, googleadservices.com, Advertising
+HOST-SUFFIX, googleadsserving.cn, Advertising
+HOST-SUFFIX, googlesyndication.com, Advertising
+HOST-SUFFIX, googletagservices.com, Advertising
+HOST-SUFFIX, googletagmanager.com, Advertising
+HOST-SUFFIX, video-ad-stats.googlesyndication.com, Advertising
+HOST-SUFFIX, tpc.googlesyndication.com, Advertising
+HOST-SUFFIX, pagead.google.com, Advertising
+HOST-SUFFIX, pagead.l.google.com, Advertising
+HOST-SUFFIX, pagead2.googlesyndication.com, Advertising
+HOST-SUFFIX, pagead-tpc.l.google.com, Advertising
+HOST-SUFFIX, mobileads.google.com, Advertising
+HOST-SUFFIX, googlecommerce.com, Advertising
+HOST-SUFFIX, blaaaa12.googlecode.com, Advertising
+HOST-SUFFIX, badad.googleplex.com, Advertising
+HOST-SUFFIX, afs.googlesyndication.com, Advertising
+HOST-SUFFIX, afd.l.google.com, Advertising
+HOST-SUFFIX, www.googleadservices.com, Advertising
+HOST-SUFFIX, www.google-analytics.com, Advertising
+HOST, ads.youtube.com, Advertising
+
+# 微软
+HOST-SUFFIX, ads.msn.com, Advertising
+HOST-SUFFIX, ads1.msn.com, Advertising
+HOST-SUFFIX, ads2.msn.com, Advertising
+HOST-SUFFIX, bingads.microsoft.com, Advertising
+HOST-SUFFIX, rads.msn.com, Advertising
+HOST, mobileads.msn.com, Advertising
+
