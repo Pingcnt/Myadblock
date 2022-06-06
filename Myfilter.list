@@ -1,5 +1,19 @@
 # For Quantumult X
 
+# genshin
+ip-cidr, 8.209.211.0/22, Hoyo
+host-keyword, hoyoverse, Hoyo
+host-keyword, hoyolab, proxy
+host-keyword, sea.mihoyo.com, proxy
+host-keyword, dispatch, Hoyo
+host-suffix, mob.com, Hoyo
+host-suffix, share.mob.com, Hoyo
+host-suffix, gm.mob.com, Hoyo
+host-suffix, overseauspider.yuanshen.com, Hoyo
+
+# hulu
+host-keyword, hulu, US
+
 # ad
 host-keyword, map.baidu.com, Advertising
 host-keyword, adv.ccb.com, Advertising
@@ -23,22 +37,6 @@ host, www.ctrip.com, Direct
 host-suffix, ma-adx.ctrip.com, Advertising
 host-suffix, c-ctrip.com, Advertising
 
-# tencent
-host, mlvbdc.live.qcloud.com, Advertising
-host-keyword, fusion.qq.com, Advertising
-host-keyword, myqcloud, Advertising
-host, cgi.connect.qq.com, Advertising
-host, oth.bls.mdt.qq.com, Advertising
-host, shortconn.im.qcloud.com, Advertising
-
-# ali
-host, acs.m.taobao.com, Advertising
-host, ut.taobao.com, Advertising
-host, mpush-api.aliyun.com, Advertising
-host, amdc.m.taobao.com, Advertising
-host, adashx.m.taobao.com, Advertising
-host-suffix, adash-emas.cn-hangzhou.aliyuncs.com, Advertising
-
 #didi
 host-keyword, img-ys011.didistatic.com, Advertising
 host-keyword, adt.xdrig.com, Advertising
@@ -52,16 +50,3 @@ host, image01.joying.com, Advertising
 host-suffix, gwp.xiaojukeji.com, Advertising
 host-suffix, ct.xiaojukeji.com, Advertising
 
-# genshin
-ip-cidr, 8.209.211.0/22, Hoyo
-host-keyword, hoyoverse, Hoyo
-host-keyword, hoyolab, proxy
-host-keyword, sea.mihoyo.com, proxy
-host-keyword, dispatch, Hoyo
-host-suffix, mob.com, Hoyo
-host-suffix, share.mob.com, Hoyo
-host-suffix, gm.mob.com, Hoyo
-host-suffix, overseauspider.yuanshen.com, Hoyo
-
-# hulu
-host-keyword, hulu, US
