@@ -14,6 +14,7 @@ host-suffix, webstatic.hoyoverse.com, All
 host-keyword, hoyolab, All
 host-keyword, sea.mihoyo.com, All
 host-suffix, upload-os-bbs.mihoyo.com, All
+host-suffix, webstatic-sea.hoyoverse.com, All
 
 # hulu
 host-keyword, hulu, US
