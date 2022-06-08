@@ -3,14 +3,16 @@
 # genshin
 ip-cidr, 8.209.211.0/22, Hoyo
 host-keyword, hoyoverse, Hoyo
-host-keyword, hoyolab, proxy
-host-keyword, sea.mihoyo.com, proxy
+host-keyword, hoyolab, All
+host-keyword, sea.mihoyo.com, All
 host-keyword, dispatch, Hoyo
 host-suffix, mob.com, Hoyo
 host-suffix, share.mob.com, Hoyo
 host-suffix, gm.mob.com, Hoyo
 host-suffix, overseauspider.yuanshen.com, Hoyo
 host-keyword, log-upload-os.mihoyo.com, Hoyo
+host-suffix, log-upload-os.hoyoverse.com, All
+host-suffix, webstatic.hoyoverse.com, All
 
 # hulu
 host-keyword, hulu, US
