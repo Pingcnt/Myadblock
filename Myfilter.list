@@ -46,6 +46,8 @@ host-keyword, beacon-api.aliyuncs.com, Advertising
 host-keyword, userlink.alicdn.com, Advertising
 host-keyword, umdc.aliapp.org, Advertising
 
+HOST-SUFFIX,app-measurement.com, Advertising
+HOST-SUFFIX,adjust.com, Advertising
 
 # ctrip
 host, aw-s.tripcdn.com, Advertising
