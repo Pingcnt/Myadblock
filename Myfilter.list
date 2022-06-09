@@ -51,7 +51,7 @@ host-keyword, userlink.alicdn.com, Advertising
 host-keyword, umdc.aliapp.org, Advertising
 
 HOST-SUFFIX, app-measurement.com, Advertising
-HOST-SUFFIX, adjust.com, Advertising
+HOST-keyword, app.adjust, Advertising
 
 # ctrip
 host, aw-s.tripcdn.com, Advertising
