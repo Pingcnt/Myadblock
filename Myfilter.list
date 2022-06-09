@@ -22,6 +22,10 @@ host-keyword, hulu, US
 # PayPal
 host-keyword, paypal, US
 
+# Facebook
+host-keyword, facebook, US
+host-keyword, fbcdn, US
+
 # true social
 host-suffix, rumble.com, US
 host-suffix, sp.rmbl.ws, US
