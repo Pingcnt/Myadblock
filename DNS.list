@@ -18,6 +18,8 @@ doh-server = /*.jandan*/https://dns.alidns.com/dns-query
 doh-server = /*wechat.*/https://dns.alidns.com/dns-query
 doh-server = /*.weixin*/https://dns.alidns.com/dns-query
 doh-server = /*.qq*/https://dns.alidns.com/dns-query
+# gov
+doh-server = /*.gov*/https://dns.alidns.com/dns-query
 # ctrip
 doh-server = /*ctrip*/https://dns.alidns.com/dns-query
 # ali
@@ -33,3 +35,5 @@ doh-server = /*dida*/https://dns.alidns.com/dns-query
 doh-server = /*ccb*/https://dns.alidns.com/dns-query
 # cmb
 doh-server = /*cmb*/https://dns.alidns.com/dns-query
+# icbc
+doh-server = /*icbc*/https://dns.alidns.com/dns-query
