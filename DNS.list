@@ -1,0 +1,22 @@
+# DNS
+
+server = /*.cn.*/223.5.5.5
+doh-server = /*.cn.*/https://dns.alidns.com/dns-query
+
+server = /*.jandan*/119.29.29.29
+server = /*wechat.*/119.29.29.29
+server = /*.weixin*/119.29.29.29
+server = /*.qq*/119.29.29.29
+
+# JD DNS
+doh-server = /*.jd.*/https://dns.alidns.com/dns-query
+doh-server = /*360buy*/https://dns.alidns.com/dns-query
+doh-server = /*joybuy*/https://dns.alidns.com/dns-query
+
+# jandan DNS
+doh-server = /*.jandan*/https://dns.alidns.com/dns-query
+
+# tencent
+doh-server = /*wechat.*/https://dns.alidns.com/dns-query
+doh-server = /*.weixin*/https://dns.alidns.com/dns-query
+doh-server = /*.qq*/https://dns.alidns.com/dns-query
