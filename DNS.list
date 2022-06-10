@@ -1,7 +1,9 @@
 # DNS
 
-server = /*.cn.*/223.5.5.5
-doh-server = /*.cn.*/https://dns.alidns.com/dns-query
+server = /*.cn*/223.5.5.5
+server = /*cn.*/223.5.5.5
+doh-server = /*.cn*/https://dns.alidns.com/dns-query
+doh-server = /*cn.*/https://dns.alidns.com/dns-query
 
 server = /*.jandan*/119.29.29.29
 server = /*wechat.*/119.29.29.29
