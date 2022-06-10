@@ -34,28 +34,36 @@ host-keyword, truthsocial, US
 
 # ad
 host-keyword, map.baidu.com, Advertising
-host-keyword, adv.ccb.com, Advertising
-host-keyword, s3gw.cmbimg.com, Advertising
-host-keyword, mbads.paas.cmbchina.com, Advertising
-host-keyword, ad.12306.cn, Advertising
-host-keyword, link.12306.cn, Advertising
-host-keyword, exservice.12306.cn, Advertising
 host-keyword, toutiao, Advertising
 host-keyword, getui, Advertising
 host-keyword, gepush, Advertising
-host-keyword, rd5-public.zhaopin.cn, Advertising
 host-keyword, www.qchannel01.cn, Advertising
 host-keyword, umeng, Advertising
 host, dualstack-arestapi.amap.com, Advertising
+
+# app
+HOST-SUFFIX, app-measurement.com, Advertising
+HOST-keyword, app.adjust, Advertising
+
+# 12306
+host-keyword, link.12306.cn, Advertising
+host-keyword, ad.12306.cn, Advertising
+host-keyword, exservice.12306.cn, Advertising
+
+# ccb
+host-keyword, adv.ccb.com, Advertising
+
+# cmb
+host-keyword, s3gw.cmbimg.com, Advertising
+host-keyword, mbads.paas.cmbchina.com, Advertising
+
+# zhaopin
+host-keyword, rd5-public.zhaopin.cn, Advertising
 host-keyword, adashxgc.ut.taobao.com, Advertising
 host-keyword, adashbc.ut.taobao.com, Advertising
-
 host-keyword, beacon-api.aliyuncs.com, Advertising
 host-keyword, userlink.alicdn.com, Advertising
 host-keyword, umdc.aliapp.org, Advertising
-
-HOST-SUFFIX, app-measurement.com, Advertising
-HOST-keyword, app.adjust, Advertising
 
 # ctrip
 host, aw-s.tripcdn.com, Advertising
