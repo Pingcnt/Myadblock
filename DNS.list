@@ -1,24 +1,35 @@
 # DNS
-
 server = /*.cn*/223.5.5.5
 server = /*cn.*/223.5.5.5
 doh-server = /*.cn*/https://dns.alidns.com/dns-query
 doh-server = /*cn.*/https://dns.alidns.com/dns-query
-
 server = /*.jandan*/119.29.29.29
 server = /*wechat.*/119.29.29.29
 server = /*.weixin*/119.29.29.29
 server = /*.qq*/119.29.29.29
-
 # JD DNS
 doh-server = /*.jd.*/https://dns.alidns.com/dns-query
 doh-server = /*360buy*/https://dns.alidns.com/dns-query
 doh-server = /*joybuy*/https://dns.alidns.com/dns-query
-
+doh-server = /*jingxi*/https://dns.alidns.com/dns-query
 # jandan DNS
 doh-server = /*.jandan*/https://dns.alidns.com/dns-query
-
 # tencent
 doh-server = /*wechat.*/https://dns.alidns.com/dns-query
 doh-server = /*.weixin*/https://dns.alidns.com/dns-query
 doh-server = /*.qq*/https://dns.alidns.com/dns-query
+# ctrip
+doh-server = /*ctrip*/https://dns.alidns.com/dns-query
+# ali
+doh-server = /*alipay*/https://dns.alidns.com/dns-query
+doh-server = /*taobao*/https://dns.alidns.com/dns-query
+doh-server = /*1688*/https://dns.alidns.com/dns-query
+doh-server = /*.ali*/https://dns.alidns.com/dns-query
+# didi
+doh-server = /*xiaoju*/https://dns.alidns.com/dns-query
+# dida
+doh-server = /*dida*/https://dns.alidns.com/dns-query
+# ccb
+doh-server = /*ccb*/https://dns.alidns.com/dns-query
+# cmb
+doh-server = /*cmb*/https://dns.alidns.com/dns-query
