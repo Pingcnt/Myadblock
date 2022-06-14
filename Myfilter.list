@@ -44,7 +44,7 @@ host-keyword, umeng, Advertising
 host, dualstack-arestapi.amap.com, Advertising
 
 # app
-HOST-SUFFIX, app-measurement.com, Advertising
+-HOST-SUFFIX, app-measurement.com, Advertising
 HOST-keyword, app.adjust, Advertising
 
 # 12306
