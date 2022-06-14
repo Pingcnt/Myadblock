@@ -14,7 +14,7 @@ host-keyword, log-upload-os.mihoyo.com, Hoyo
 host-keyword, hoyolab, All
 host-suffix, sea.mihoyo.com, All
 host-suffix, webstatic.hoyoverse.com, All
-host-suffix, webstatic-sea.hoyoverse.com, All
+-host-suffix, webstatic-sea.hoyoverse.com, All
 host-suffix, upload-os-bbs.mihoyo.com, All
 -host-suffix, log-upload-os.hoyoverse.com, All
 
