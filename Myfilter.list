@@ -18,6 +18,13 @@ host-suffix, webstatic-sea.hoyoverse.com, All
 host-suffix, upload-os-bbs.mihoyo.com, All
 host-suffix, log-upload-os.hoyoverse.com, All
 
+# mail
+host-keyword, mailws.icloud.com, Mail
+host-keyword, imap.gmail.com, Mail
+host-keyword, imap.mail.me.com, Mail
+host-keyword, imap.mail.com, Mail
+host-keyword, imap.gmx.com, Mail
+
 # hulu
 #host-keyword, hulu, US
 
@@ -35,6 +42,7 @@ host-suffix, trk.bonsa.net, US
 host-keyword, truthsocial, US
 
 # ad
+host, app-measurement.com, proxy
 host-keyword, map.baidu.com, Advertising
 host-keyword, toutiao, Advertising
 host-keyword, getui, Advertising
@@ -66,6 +74,13 @@ host-keyword, adashbc.ut.taobao.com, Advertising
 host-keyword, beacon-api.aliyuncs.com, Advertising
 host-keyword, userlink.alicdn.com, Advertising
 host-keyword, umdc.aliapp.org, Advertising
+host-keyword, img09.zhaopin.cn, Advertising
+host-keyword, ynuf.aliapp.org, Advertising
+-host-keyword, qiyukf.com, Advertising
+-host-suffix, beacon-api.aliyuncs.com, Advertising
+-host, umdc.aliapp.org, Advertising
+-host-suffix, netease.im, Advertising
+-host, wannos.127.net, Advertising
 
 # ctrip
 host, aw-s.tripcdn.com, Advertising
