@@ -5,6 +5,7 @@ host-keyword, itunes, Apple
 host-keyword, icloud, Apple
 HOST-SUFFIX,mzstatic.com,Apple
 HOST-SUFFIX,safebrowsing.apple,Apple
+HOST-SUFFIX,me.com,Apple
 
 HOST-SUFFIX,digicert.com,Apple
 HOST-SUFFIX,aaplimg.com,Apple
@@ -13,7 +14,6 @@ HOST-SUFFIX,appstore.com,Apple
 HOST-SUFFIX,crashlytics.com,Apple
 HOST-SUFFIX,appsto.re,Apple
 HOST-SUFFIX,apzones.com,Apple
-HOST-SUFFIX,me.com,Apple
 HOST-KEYWORD,icoudo,Apple
 HOST-KEYWORD,testflight,Apple
 HOST-KEYWORD,icloud.com.akadns.net,Apple
