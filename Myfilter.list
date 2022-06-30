@@ -69,7 +69,7 @@ host-keyword, s3gw.cmbimg.com, Advertising
 host-keyword, mbads.paas.cmbchina.com, Advertising
 
 # zhaopin
-host-keyword, rd5-public.zhaopin.cn, Advertising
+;host-keyword, rd5-public.zhaopin.cn, Advertising
 host-keyword, adashxgc.ut.taobao.com, Advertising
 host-keyword, adashbc.ut.taobao.com, Advertising
 host-keyword, beacon-api.aliyuncs.com, Advertising
