@@ -52,13 +52,13 @@ host-keyword, ttvnw, All
 host-keyword, amazon-adsystem, Advertising
 
 # youtube
-host-keyword, youtube, All
-host-keyword, ytimg, All
-host-keyword, yt3.ggpht, All
+host-keyword, youtube, Google
+host-keyword, ytimg, Google
+host-keyword, yt3.ggpht, Google
 
 # google
-host-keyword, goog, All
-host-keyword, google, All
+host-keyword, goog, Google
+host-keyword, google, Google
 host-keyword, www.gstatic.com, Advertising
 
 # ad
