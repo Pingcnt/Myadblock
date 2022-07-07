@@ -31,10 +31,14 @@ host-keyword, imap.gmx.com, Mail
 # PayPal
 host-keyword, paypal, US
 
+# youtube
+host-keyword, youtube, HK
+host-keyword, ytimg, HK
+host-keyword, yt3.ggpht, HK
+
 # google
 host-keyword, goog, US
 host-keyword, google, US
-host-keyword, youtube, HK
 
 # Facebook
 host-keyword, facebook, US
