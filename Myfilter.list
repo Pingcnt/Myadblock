@@ -32,13 +32,13 @@ host-keyword, imap.gmx.com, Mail
 host-keyword, paypal, US
 
 # youtube
-host-keyword, youtube, HK
-host-keyword, ytimg, HK
-host-keyword, yt3.ggpht, HK
+host-keyword, youtube, All
+host-keyword, ytimg, All
+host-keyword, yt3.ggpht, All
 
 # google
-host-keyword, goog, US
-host-keyword, google, US
+host-keyword, goog, All
+host-keyword, google, All
 
 # Facebook
 host-keyword, facebook, US
