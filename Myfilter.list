@@ -39,6 +39,7 @@ host-keyword, yt3.ggpht, All
 # google
 host-keyword, goog, All
 host-keyword, google, All
+host-keyword, www.gstatic.com, Advertising
 
 # Facebook
 host-keyword, facebook, Mail
@@ -49,6 +50,16 @@ host-suffix, rumble.com, Mail
 host-suffix, sp.rmbl.ws, Mail
 host-suffix, trk.bonsa.net, Mail
 host-keyword, truthsocial, Mail
+
+# twitter
+host-keyword, twimg.com, All
+host-keyword, twitter.com, All
+
+# twitch
+host-keyword, jtvnw, All
+host-keyword, twitch, All
+host-keyword, ttvnw, All
+host-keyword, amazon-adsystem, Advertising
 
 # ad
 host-keyword, nbsdk-baichuan.alicdn.com, Advertising
