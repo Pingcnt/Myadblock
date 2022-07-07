@@ -41,14 +41,14 @@ host-keyword, goog, All
 host-keyword, google, All
 
 # Facebook
-host-keyword, facebook, US
-host-keyword, fbcdn, US
+host-keyword, facebook, Mail
+host-keyword, fbcdn, Mail
 
 # true social
-host-suffix, rumble.com, US
-host-suffix, sp.rmbl.ws, US
-host-suffix, trk.bonsa.net, US
-host-keyword, truthsocial, US
+host-suffix, rumble.com, Mail
+host-suffix, sp.rmbl.ws, Mail
+host-suffix, trk.bonsa.net, Mail
+host-keyword, truthsocial, Mail
 
 # ad
 host-keyword, nbsdk-baichuan.alicdn.com, Advertising
