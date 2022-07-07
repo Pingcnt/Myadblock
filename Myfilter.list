@@ -31,16 +31,6 @@ host-keyword, imap.gmx.com, Mail
 # PayPal
 host-keyword, paypal, US
 
-# youtube
-host-keyword, youtube, All
-host-keyword, ytimg, All
-host-keyword, yt3.ggpht, All
-
-# google
-host-keyword, goog, All
-host-keyword, google, All
-host-keyword, www.gstatic.com, Advertising
-
 # Facebook
 host-keyword, facebook, Mail
 host-keyword, fbcdn, Mail
@@ -60,6 +50,16 @@ host-keyword, jtvnw, All
 host-keyword, twitch, All
 host-keyword, ttvnw, All
 host-keyword, amazon-adsystem, Advertising
+
+# youtube
+host-keyword, youtube, All
+host-keyword, ytimg, All
+host-keyword, yt3.ggpht, All
+
+# google
+host-keyword, goog, All
+host-keyword, google, All
+host-keyword, www.gstatic.com, Advertising
 
 # ad
 host-keyword, nbsdk-baichuan.alicdn.com, Advertising
