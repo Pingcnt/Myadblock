@@ -9,6 +9,7 @@ host-suffix, gm.mob.com, Hoyo
 host-suffix, share.mob.com, Hoyo
 host-suffix, overseauspider.yuanshen.com, Hoyo
 host-keyword, log-upload-os.mihoyo.com, Hoyo
+host-keyword, autopatchhk.yuanshen, Hoyo
 
 # hoyolab
 host-keyword, hoyolab, HK
