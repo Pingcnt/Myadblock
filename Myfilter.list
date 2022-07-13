@@ -16,7 +16,7 @@ host-suffix, sea.mihoyo.com, HK
 host-suffix, webstatic.hoyoverse.com, HK
 host-suffix, webstatic-sea.hoyoverse.com, HK
 host-suffix, upload-os-bbs.mihoyo.com, HK
-host-suffix, log-upload-os.hoyoverse.com, HK
+host-suffix, log-upload-os.hoyoverse.com, Hoyo
 
 # mail
 host-keyword, mailws.icloud.com, Mail
