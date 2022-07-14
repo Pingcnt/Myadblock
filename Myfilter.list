@@ -50,7 +50,7 @@ host-keyword, twitter.com, All
 host-keyword, jtvnw, All
 host-keyword, twitch, All
 host-keyword, ttvnw, All
-host-keyword, amazon-adsystem, Advertising
+host-keyword, amazon-adsystem, Ad
 
 # youtube
 host-keyword, youtube, Google
@@ -60,9 +60,9 @@ host-keyword, yt3.ggpht, Google
 # google
 host-keyword, goog, Google
 host-keyword, google, Google
-host-keyword, www.gstatic.com, Advertising
+host-keyword, www.gstatic.com, Ad
 
 # app
-host-keyword, app-measurement.com, Advertising
-host-keyword, app.adjust, Advertising
+host-keyword, app-measurement.com, Ad
+host-keyword, app.adjust, Ad
 
