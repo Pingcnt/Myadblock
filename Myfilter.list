@@ -4,7 +4,7 @@
 ip-cidr, 8.209.211.0/22, direct
 host-keyword, hoyoverse, Hoyo
 host-keyword, dispatch, Hoyo
-host-suffix, .mob.com, Hoyo
+host-keyword, mob.com, Hoyo
 ;host-suffix, gm.mob.com, Hoyo
 ;host-suffix, share.mob.com, Hoyo
 host-suffix, overseauspider.yuanshen.com, Hoyo
