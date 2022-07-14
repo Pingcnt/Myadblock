@@ -4,9 +4,9 @@
 ip-cidr, 8.209.211.0/22, direct
 host-keyword, hoyoverse, Hoyo
 host-keyword, dispatch, Hoyo
-host-suffix, mob.com, Hoyo
-host-suffix, gm.mob.com, Hoyo
-host-suffix, share.mob.com, Hoyo
+host-suffix, .mob.com, Hoyo
+;host-suffix, gm.mob.com, Hoyo
+;host-suffix, share.mob.com, Hoyo
 host-suffix, overseauspider.yuanshen.com, Hoyo
 host-keyword, log-upload-os.mihoyo.com, Hoyo
 host-keyword, autopatchhk.yuanshen, Hoyo
@@ -36,6 +36,9 @@ host-keyword, paypal, US
 host-keyword, facebook, Mail
 host-keyword, fbcdn, Mail
 
+# instagram
+host-keyword, instagram, Mail
+
 # true social
 host-suffix, rumble.com, Mail
 host-suffix, sp.rmbl.ws, Mail
@@ -48,8 +51,8 @@ host-keyword, twitter.com, All
 
 # twitch
 host-keyword, jtvnw, All
-host-keyword, twitch, All
 host-keyword, ttvnw, All
+host-keyword, twitch, All
 host-keyword, amazon-adsystem, Ad
 
 # youtube
