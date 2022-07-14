@@ -62,67 +62,7 @@ host-keyword, goog, Google
 host-keyword, google, Google
 host-keyword, www.gstatic.com, Advertising
 
-# ad
-host-keyword, nbsdk-baichuan.alicdn.com, Advertising
-host-keyword, mmstat, Advertising
-host-keyword, map.baidu.com, Advertising
-host-keyword, toutiao, Advertising
-host-keyword, umeng, Advertising
-host-keyword, getui, Advertising
-host-keyword, gepush, Advertising
-host-keyword, www.qchannel01.cn, Advertising
-host, dualstack-arestapi.amap.com, Advertising
-
 # app
 host-keyword, app-measurement.com, Advertising
 host-keyword, app.adjust, Advertising
-
-# 12306
-host-keyword, link.12306.cn, Advertising
-host-keyword, ad.12306.cn, Advertising
-host-keyword, exservice.12306.cn, Advertising
-
-# ccb
-host-keyword, adv.ccb.com, Advertising
-
-# cmb
-host-keyword, s3gw.cmbimg.com, Advertising
-host-keyword, mbads.paas.cmbchina.com, Advertising
-
-# zhaopin
-;host-keyword, rd5-public.zhaopin.cn, Advertising
-host-keyword, adashxgc.ut.taobao.com, Advertising
-host-keyword, adashbc.ut.taobao.com, Advertising
-host-keyword, beacon-api.aliyuncs.com, Advertising
-host-keyword, userlink.alicdn.com, Advertising
-host-keyword, umdc.aliapp.org, Advertising
-host-keyword, img09.zhaopin.cn, Advertising
-host-keyword, ynuf.aliapp.org, Advertising
--host-keyword, qiyukf.com, Advertising
--host-suffix, beacon-api.aliyuncs.com, Advertising
--host, umdc.aliapp.org, Advertising
--host-suffix, netease.im, Advertising
--host, wannos.127.net, Advertising
-
-# ctrip
-host, aw-s.tripcdn.com, Advertising
-host, ws-s.tripcdn.cn, Advertising
-host, im3.ctrip.com, Advertising
-host, cpush.ctrip.com, Advertising
-host, www.ctrip.com, Direct
-host-suffix, ma-adx.ctrip.com, Advertising
-host-suffix, c-ctrip.com, Advertising
-
-#didi
-host-keyword, img-ys011.didistatic.com, Advertising
-host-keyword, adt.xdrig.com, Advertising
-host, conf.diditaxi.com.cn, Advertising
-host, apm.xiaojukeji.com, Advertising
-host, omgup1.xiaojukeji.com, Advertising
-host, omgup2.xiaojukeji.com, Advertising
-host, omgup.xiaojukeji.com, Advertising
-host, guard.sec.xiaojukeji.com, Advertising
-host, image01.joying.com, Advertising
-host-suffix, gwp.xiaojukeji.com, Advertising
-host-suffix, ct.xiaojukeji.com, Advertising
 
