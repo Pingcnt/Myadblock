@@ -10,21 +10,21 @@ ip-cidr, 8.209.211.0/22, direct
 ;host-keyword, autopatchhk.yuanshen, Hoyo
 
 #
-host-keyword, webstatic.hoyoverse.com, HK
-host-keyword, hk4e-sdk-os-static.hoyoverse.com, HK
-host-keyword, hk4e-sdk-os.hoyoverse.com, HK
-host-keyword, log-upload-os.hoyoverse.com, HK
-host-keyword, minor-api-os.hoyoverse.com, HK
-host-keyword, mob.com, HK
-host-keyword, jp.l.gm.mob.com, HK
-host-keyword, jp.f.gm.mob.com, HK
-host-keyword, jp.api.share.mob.com, HK
+host-keyword, webstatic.hoyoverse.com, Hoyo
+host-keyword, hk4e-sdk-os-static.hoyoverse.com, Hoyo
+host-keyword, hk4e-sdk-os.hoyoverse.com, Hoyo
+host-keyword, log-upload-os.hoyoverse.com, Hoyo
+host-keyword, minor-api-os.hoyoverse.com, Hoyo
+host-keyword, mob.com, Hoyo
+host-keyword, jp.l.gm.mob.com, Hoyo
+host-keyword, jp.f.gm.mob.com, Hoyo
+host-keyword, jp.api.share.mob.com, Hoyo
 
-host-keyword, dispatchosglobal.yuanshen.com, HK
-host-keyword, oseurodispatch.yuanshen.com, HK
-host-keyword, oschtdispatch.yuanshen.com, HK
-host-keyword, autopatchhk.yuanshen.com, HK
-host-keyword, overseauspider.yuanshen.com, HK
+host-keyword, dispatchosglobal.yuanshen.com, Hoyo
+host-keyword, oseurodispatch.yuanshen.com, Hoyo
+host-keyword, oschtdispatch.yuanshen.com, Hoyo
+host-keyword, autopatchhk.yuanshen.com, Hoyo
+host-keyword, overseauspider.yuanshen.com, Hoyo
 
 # hoyolab
 host-keyword, hoyolab, HK
