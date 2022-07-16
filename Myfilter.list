@@ -15,14 +15,14 @@ host-keyword, hk4e-sdk-os-static.hoyoverse.com, Hoyo
 host-keyword, hk4e-sdk-os.hoyoverse.com, Hoyo
 host-keyword, log-upload-os.hoyoverse.com, Hoyo
 host-keyword, minor-api-os.hoyoverse.com, Hoyo
+sdk-os-static.hoyoverse.com
 host-keyword, mob.com, Hoyo
 host-keyword, jp.l.gm.mob.com, Hoyo
 host-keyword, jp.f.gm.mob.com, Hoyo
 host-keyword, jp.api.share.mob.com, Hoyo
 
-host-keyword, dispatchosglobal.yuanshen.com, Hoyo
-host-keyword, oseurodispatch.yuanshen.com, Hoyo
-host-keyword, oschtdispatch.yuanshen.com, Hoyo
+;host-keyword, dispatchosglobal.yuanshen.com, Hoyo
+;host-keyword, dispatch.yuanshen.com, HK
 host-keyword, autopatchhk.yuanshen.com, Hoyo
 host-keyword, overseauspider.yuanshen.com, Hoyo
 
