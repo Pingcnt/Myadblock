@@ -1,15 +1,11 @@
 # For Quantumult X
 
-# genshin
+# 
 ip-cidr, 8.209.211.0/22, direct
-;host-keyword, hoyoverse, Hoyo
-;host-keyword, dispatch, Hoyo
-;host-keyword, mob.com, Hoyo
-;host-keyword, overseauspider.yuanshen.com, Hoyo
-;host-keyword, log-upload-os.mihoyo.com, Hoyo
-;host-keyword, autopatchhk.yuanshen, Hoyo
 
-#
+
+# genshin
+;host-keyword, hoyoverse, Hoyo
 host-keyword, webstatic.hoyoverse.com, Hoyo
 host-keyword, hk4e-sdk-os-static.hoyoverse.com, Hoyo
 host-keyword, hk4e-sdk-os.hoyoverse.com, Hoyo
