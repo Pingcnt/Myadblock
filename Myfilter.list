@@ -30,12 +30,15 @@ host-keyword, overseauspider.yuanshen.com, HK
 host-keyword, hoyolab, HK
 host-keyword, sea.mihoyo.com, HK
 host-keyword, upload-os-bbs.mihoyo.com, HK
+upload-bbs.mihoyo.com
 host-keyword, webstatic-sea.hoyoverse.com, HK
 #host-keyword, log-upload-os.hoyoverse.com, HK
 #host-keyword, webstatic.hoyoverse.com, HK
+upload-static.hoyoverse.com
+act.hoyoverse.com
 host-keyword, sea.hoyoverse.com, HK
 host-keyword, sg.hoyoverse.com, HK
-
+unpkg.com
 
 # mail
 host-keyword, mailws.icloud.com, Mail
