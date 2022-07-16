@@ -21,6 +21,7 @@ host-keyword, getui, Ad
 host-keyword, gepush, Ad
 host-keyword, www.qchannel01.cn, Ad
 host-keyword, dualstack-arestapi.amap.com, Ad
+host-keyword, www.gstatic.com, Ad
 
 # 12306
 host-keyword, link.12306.cn, Ad
@@ -70,6 +71,17 @@ host-keyword, guard.sec.xiaojukeji.com, Ad
 host-keyword, image01.joying.com, Ad
 host-keyword, gwp.xiaojukeji.com, Ad
 host-keyword, ct.xiaojukeji.com, Ad
+
+#
+host-keyword, cdn13.com, Ad
+host-keyword, cdn.strpst.com, Ad
+host-keyword, ahcdn.com, Ad
+host-keyword, thumb-l3.flixcdn.com, Ad
+host-keyword, faphouse.com, Ad
+host-keyword, branch.io, Ad
+host-keyword, amazon-adsystem, Ad
+host-keyword, tsyndicate.com, Ad
+host-keyword, doppiocdn.com, Ad
 
 # my list end
 
