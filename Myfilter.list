@@ -2,22 +2,39 @@
 
 # genshin
 ip-cidr, 8.209.211.0/22, direct
-host-keyword, hoyoverse, Hoyo
-host-keyword, dispatch, Hoyo
-host-keyword, mob.com, Hoyo
-host-keyword, overseauspider.yuanshen.com, Hoyo
-host-keyword, log-upload-os.mihoyo.com, Hoyo
-host-keyword, autopatchhk.yuanshen, Hoyo
+;host-keyword, hoyoverse, Hoyo
+;host-keyword, dispatch, Hoyo
+;host-keyword, mob.com, Hoyo
+;host-keyword, overseauspider.yuanshen.com, Hoyo
+;host-keyword, log-upload-os.mihoyo.com, Hoyo
+;host-keyword, autopatchhk.yuanshen, Hoyo
+
+#
+host-keyword, webstatic.hoyoverse.com, HK
+host-keyword, hk4e-sdk-os-static.hoyoverse.com, HK
+host-keyword, hk4e-sdk-os.hoyoverse.com, HK
+host-keyword, log-upload-os.hoyoverse.com, HK
+host-keyword, minor-api-os.hoyoverse.com, HK
+host-keyword, mob.com, HK
+host-keyword, jp.l.gm.mob.com, HK
+host-keyword, jp.f.gm.mob.com:80, HK
+host-keyword, jp.api.share.mob.com, HK
+
+host-keyword, dispatchosglobal.yuanshen.com, HK
+host-keyword, oseurodispatch.yuanshen.com, HK
+host-keyword, oschtdispatch.yuanshen.com, HK
+host-keyword, autopatchhk.yuanshen.com, HK
+host-keyword, overseauspider.yuanshen.com, HK
 
 # hoyolab
 host-keyword, hoyolab, HK
 host-keyword, sea.mihoyo.com, HK
-host-keyword, webstatic-sea.hoyoverse.com, HK
 host-keyword, upload-os-bbs.mihoyo.com, HK
-host-suffix, log-upload-os.hoyoverse.com, HK
-host-keyword, webstatic.hoyoverse.com, HK
-host-suffix, sea.hoyoverse.com, HK
-host-suffix, sg.hoyoverse.com, HK
+host-keyword, webstatic-sea.hoyoverse.com, HK
+#host-keyword, log-upload-os.hoyoverse.com, HK
+#host-keyword, webstatic.hoyoverse.com, HK
+host-keyword, sea.hoyoverse.com, HK
+host-keyword, sg.hoyoverse.com, HK
 
 
 # mail
@@ -70,3 +87,5 @@ host-keyword, www.gstatic.com, Ad
 host-keyword, app-measurement.com, Ad
 host-keyword, app.adjust, Ad
 
+# tiktok
+host-keyword, tiktok, US
