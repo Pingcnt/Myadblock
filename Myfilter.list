@@ -21,6 +21,9 @@ host-keyword, dispatchosglobal.yuanshen.com, Hoyo
 host-keyword, dispatch.yuanshen.com, Hoyo
 host-keyword, autopatchhk.yuanshen.com, Hoyo
 host-keyword, overseauspider.yuanshen.com, Hoyo
+host-keyword, sdk.hoyoverse.com, Hoyo
+host-keyword, sg-hk4e-api.hoyoverse.com, Hoyo
+host-keyword, sg-hk4e-api-static.hoyoverse.com, Hoyo
 
 # hoyolab
 host-keyword, hoyolab, HK
@@ -65,6 +68,7 @@ host-keyword, truthsocial, Mail
 # twitter
 host-keyword, twimg.com, All
 host-keyword, twitter.com, All
+host-keyword, xham, All
 
 # twitch
 host-keyword, jtvnw, All
