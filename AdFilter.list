@@ -4,7 +4,7 @@
 # my list
 
 # tencent
-host, mlvbdc.live.qcloud.com, Ad
+host-keyword, mlvbdc.live.qcloud.com, Ad
 host-keyword, fusion.qq.com, Ad
 host-keyword, myqcloud, Ad
 host-keyword, cgi.connect.qq.com, Ad
@@ -72,7 +72,7 @@ host-keyword, image01.joying.com, Ad
 host-keyword, gwp.xiaojukeji.com, Ad
 host-keyword, ct.xiaojukeji.com, Ad
 
-#
+#XH
 host-keyword, cdn13.com, Ad
 host-keyword, cdn.strpst.com, Ad
 -host-keyword, ahcdn.com, Ad
@@ -81,7 +81,8 @@ host-keyword, faphouse.com, Ad
 host-keyword, branch.io, Ad
 host-keyword, amazon-adsystem, Ad
 host-keyword, tsyndicate.com, Ad
-host-keyword, doppiocdn.com, Ad
+host-keyword, doppiocdn, Ad
+host-keyword, usertrust.com, Ad
 
 # my list end
 
