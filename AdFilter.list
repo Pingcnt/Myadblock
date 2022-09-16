@@ -10,6 +10,10 @@ host-keyword, myqcloud, Ad
 host-keyword, cgi.connect.qq.com, Ad
 host-keyword, oth.bls.mdt.qq.com, Ad
 host-keyword, shortconn.im.qcloud.com, Ad
+host-keyword, qidian.qq, Ad
+host-keyword, chat.qidian, Ad
+host-keyword, trace.qq, Ad
+host-keyword, hl.3g.qq.com, Ad
 
 # ad
 host-keyword, nbsdk-baichuan.alicdn.com, Ad
@@ -22,6 +26,9 @@ host-keyword, gepush, Ad
 host-keyword, www.qchannel01.cn, Ad
 host-keyword, dualstack-arestapi.amap.com, Ad
 host-keyword, www.gstatic.com, Ad
+host-keyword, jpush, Ad
+host-keyword, amplitude.com, Ad
+host-keyword, restios.amap.com, Ad
 
 # 12306
 host-keyword, link.12306.cn, Ad
