@@ -35,6 +35,7 @@ ip-cidr, 35.77.126.0/22, Hoyo
 ip-cidr, 35.77.138.0/22, Hoyo
 ip-cidr, 35.77.165.0/22, Hoyo
 ip-cidr, 35.78.110.0/22, Hoyo
+ip-cidr, 35.78.146.0/22, Hoyo
 
 ip-cidr, 52.69.88.0/22, Hoyo
 ip-cidr, 52.69.94.0/22, Hoyo
