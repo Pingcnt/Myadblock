@@ -29,7 +29,7 @@ host-keyword, sg-hk4e-api-static.hoyoverse.com, Hoyo
 host-keyword, hoyolab, HK
 host-keyword, sea.mihoyo.com, HK
 host-keyword, upload-os-bbs.mihoyo.com, HK
-host-keyword, upload-bbs.mihoyo.com, HK
+host-keyword, upload-bbs.mihoyo.com, Hoyo
 
 host-keyword, webstatic-sea.hoyoverse.com, HK
 host-keyword, upload-static.hoyoverse.com, HK
@@ -45,6 +45,15 @@ host-keyword, imap.gmail.com, Mail
 host-keyword, imap.mail.me.com, Mail
 host-keyword, imap.mail.com, Mail
 host-keyword, imap.gmx.com, Mail
+host-keyword, hotmail, Mail
+host-keyword, microsoftonline, Mail
+
+# microsoft
+host-keyword, cn.bing, direct
+host-keyword, onedrive.live, proxy
+
+# biligame
+host-keyword, biligame, direct
 
 # hulu
 #host-keyword, hulu, US
