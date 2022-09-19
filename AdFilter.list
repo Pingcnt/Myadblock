@@ -15,6 +15,10 @@ host-keyword, chat.qidian, Ad
 host-keyword, trace.qq, Ad
 host-keyword, hl.3g.qq.com, Ad
 
+#不确定tencent
+host-keyword, cndtips.net, Ad
+host-keyword, mmbiz.qpic, Ad
+
 # ad
 host-keyword, nbsdk-baichuan.alicdn.com, Ad
 host-keyword, mmstat, Ad
@@ -25,10 +29,11 @@ host-keyword, getui, Ad
 host-keyword, gepush, Ad
 host-keyword, www.qchannel01.cn, Ad
 host-keyword, dualstack-arestapi.amap.com, Ad
-host-keyword, www.gstatic.com, Ad
+-host-keyword, www.gstatic.com, Ad
 host-keyword, jpush, Ad
 host-keyword, amplitude.com, Ad
 host-keyword, restios.amap.com, Ad
+host-keyword, lencr, Ad
 
 # 12306
 host-keyword, link.12306.cn, Ad
@@ -43,7 +48,7 @@ host-keyword, s3gw.cmbimg.com, Ad
 host-keyword, mbads.paas.cmbchina.com, Ad
 
 # zhaopin
-;host-keyword, rd5-public.zhaopin.cn, Ad
+-host-keyword, rd5-public.zhaopin.cn, Ad
 host-keyword, adashxgc.ut.taobao.com, Ad
 host-keyword, adashbc.ut.taobao.com, Ad
 host-keyword, beacon-api.aliyuncs.com, Ad
