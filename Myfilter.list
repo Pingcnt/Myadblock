@@ -47,6 +47,9 @@ host-keyword, imap.mail.com, Mail
 host-keyword, imap.gmx.com, Mail
 host-keyword, hotmail, Mail
 host-keyword, microsoftonline, Mail
+host-keyword, gmx.com, Mail
+host-keyword, mail.com, Mail
+host-keyword, gmail.com, Mail
 
 # microsoft
 host-keyword, cn.bing, direct
@@ -101,3 +104,7 @@ host-keyword, app.adjust, Ad
 
 # tiktok
 host-keyword, tiktok, US
+
+# mox.moe comic
+host-keyword, mox.moe, proxy
+host-keyword, mxomo.com, proxy
