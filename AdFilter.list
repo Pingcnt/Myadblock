@@ -25,6 +25,7 @@ host-keyword, mmstat, Ad
 host-keyword, map.baidu.com, Ad
 host-keyword, toutiao, Ad
 host-keyword, umeng, Ad
+host-keyword, cnzz, Ad
 host-keyword, getui, Ad
 host-keyword, gepush, Ad
 host-keyword, www.qchannel01.cn, Ad
@@ -34,6 +35,14 @@ host-keyword, jpush, Ad
 host-keyword, amplitude.com, Ad
 host-keyword, restios.amap.com, Ad
 host-keyword, lencr, Ad
+host-keyword, eas.outlook.com, Mail
+host-keyword, dutils, Ad
+host-keyword, in.appcenter.ms, Ad
+host-keyword, aegis.qq.com, Ad
+host-keyword, st.jingxi.com, Ad
+host-keyword, mobiledispatch, Ad
+host-keyword, ads.amap.com, Ad
+host-keyword, awaken.amap.com, Ad
 
 # 12306
 host-keyword, link.12306.cn, Ad
