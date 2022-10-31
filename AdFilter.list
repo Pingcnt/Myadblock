@@ -114,6 +114,12 @@ host-keyword, loli.net, direct
 host-keyword, ddys, direct
 host-keyword, dsxys, direct
 host-keyword, ikan, direct
+host-keyword, ikandy, direct
+host-keyword, mgw.m.taobao.com, Ad
+host-keyword, mobilegw.alipay.com, Ad
+host-keyword, baichuan.m.taobao.com, Ad
+-host-keyword, amdc.m.taobao.com, Ad
+
 
 
 # my list end
