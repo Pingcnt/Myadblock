@@ -101,7 +101,7 @@ host-keyword, google, Google
 host-keyword, www.gstatic.com, Ad
 
 # app
-;host-keyword, app-measurement.com, Ad
+host-keyword, app-measurement.com, Ad
 host-keyword, app.adjust, Ad
 
 # tiktok
