@@ -43,6 +43,7 @@ host-keyword, st.jingxi.com, Ad
 host-keyword, mobiledispatch, Ad
 host-keyword, ads.amap.com, Ad
 host-keyword, awaken.amap.com, Ad
+host-keyword, appsflyer, Ad
 
 # 12306
 host-keyword, link.12306.cn, Ad
@@ -93,7 +94,7 @@ host-keyword, image01.joying.com, Ad
 host-keyword, gwp.xiaojukeji.com, Ad
 host-keyword, ct.xiaojukeji.com, Ad
 
-#XH
+# XH
 host-keyword, cdn13.com, Ad
 host-keyword, cdn.strpst.com, Ad
 -host-keyword, ahcdn.com, Ad
@@ -104,6 +105,16 @@ host-keyword, amazon-adsystem, Ad
 host-keyword, tsyndicate.com, Ad
 host-keyword, doppiocdn, Ad
 host-keyword, usertrust.com, Ad
+
+# ikan
+host-keyword, sp0.baidu.com, Ad
+host-keyword, hm.baidu.com, Ad
+host-keyword, ikandy, direct
+host-keyword, loli.net, direct
+host-keyword, ddys, direct
+host-keyword, dsxys, direct
+host-keyword, ikan, direct
+
 
 # my list end
 
@@ -297,6 +308,7 @@ HOST-SUFFIX, afs.googlesyndication.com, Ad
 HOST-SUFFIX, afd.l.google.com, Ad
 HOST-SUFFIX, www.googleadservices.com, Ad
 HOST-SUFFIX, www.google-analytics.com, Ad
+host-keyword, firebaselogging-pa.googleapis.com, Ad
 HOST, ads.youtube.com, Ad
 
 # 微软
