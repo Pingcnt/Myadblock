@@ -5,25 +5,34 @@ ip-cidr, 8.209.211.0/22, direct
 
 
 # genshin
-;host-keyword, hoyoverse, Hoyo
+# Hoyoverse
 host-keyword, webstatic.hoyoverse.com, Hoyo
-host-keyword, hk4e-sdk-os-static.hoyoverse.com, Hoyo
-host-keyword, hk4e-sdk-os.hoyoverse.com, Hoyo
+host-keyword, sdk.hoyoverse.com, Hoyo
 host-keyword, log-upload-os.hoyoverse.com, Hoyo
 host-keyword, minor-api-os.hoyoverse.com, Hoyo
-host-keyword, sdk-os-static.hoyoverse.com, Hoyo
+host-keyword, hk4e-sdk-os-static.hoyoverse.com, Hoyo
+host-keyword, sg-hk4e-api-static.hoyoverse.com, HoyoIP
+host-keyword, sg-hk4e-api.hoyoverse.com, HoyoIP
+host-keyword, hk4e-sdk-os.hoyoverse.com, HoyoIP
+
+host-keyword, webstatic-sea.hoyoverse.com, HK
+host-keyword, upload-static.hoyoverse.com, HK
+host-keyword, act.hoyoverse.com, HK
+host-keyword, sea.hoyoverse.com, HK
+host-keyword, sg.hoyoverse.com, HK
+
+# Yuanshen
+host-keyword, dispatch.yuanshen.com, Hoyo
+host-keyword, autopatchhk.yuanshen.com, Hoyo
+host-keyword, dispatchosglobal.yuanshen.com, Hoyo
+host-keyword, overseauspider.yuanshen.com, Hoyo
+
 host-keyword, mob.com, Hoyo
 host-keyword, jp.l.gm.mob.com, Hoyo
 host-keyword, jp.f.gm.mob.com, Hoyo
 host-keyword, jp.api.share.mob.com, Hoyo
 
-host-keyword, dispatchosglobal.yuanshen.com, Hoyo
-host-keyword, dispatch.yuanshen.com, Hoyo
-host-keyword, autopatchhk.yuanshen.com, Hoyo
-host-keyword, overseauspider.yuanshen.com, Hoyo
-host-keyword, sdk.hoyoverse.com, Hoyo
-host-keyword, sg-hk4e-api.hoyoverse.com, Hoyo
-host-keyword, sg-hk4e-api-static.hoyoverse.com, Hoyo
+host-keyword, graph.facebook.com, US
 
 # hoyolab
 host-keyword, hoyolab, HK
@@ -31,13 +40,6 @@ host-keyword, sea.mihoyo.com, HK
 host-keyword, upload-os-bbs.mihoyo.com, HK
 host-keyword, upload-bbs.mihoyo.com, Hoyo
 
-host-keyword, webstatic-sea.hoyoverse.com, HK
-host-keyword, upload-static.hoyoverse.com, HK
-host-keyword, act.hoyoverse.com, HK
-host-keyword, sea.hoyoverse.com, HK
-host-keyword, sg.hoyoverse.com, HK
-#host-keyword, log-upload-os.hoyoverse.com, HK
-#host-keyword, webstatic.hoyoverse.com, HK
 
 # mail
 host-keyword, mailws.icloud.com, Mail
