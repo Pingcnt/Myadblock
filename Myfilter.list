@@ -37,7 +37,7 @@ host-keyword, jp.l.gm.mob.com, Hoyo
 host-keyword, jp.f.gm.mob.com, Hoyo
 host-keyword, jp.api.share.mob.com, Hoyo
 
-host-keyword, graph.facebook.com, US
+host-keyword, graph.facebook.com, HoyoIP
 
 # hoyolab
 host-keyword, hoyolab, HK
