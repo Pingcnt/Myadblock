@@ -60,3 +60,15 @@ host-keyword, tiktok, US
 # mox.moe comic
 host-keyword, mox.moe, proxy
 host-keyword, mxomo.com, proxy
+
+# smsactive
+host-keyword, sms-activate, US
+host-keyword, smsactivate, US
+
+# openai
+host-keyword, intercom.io, All
+host-keyword, hsforms.com, All
+host-keyword, hcaptcha.com, All
+host-keyword, vimeocdn.com, All
+host-keyword, akamaized.net, All
+host-keyword, openai.com, All
