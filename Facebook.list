@@ -8,8 +8,6 @@ HOST-SUFFIX, accountkit.com, Facebook
 HOST-SUFFIX, acebooik.com, Facebook
 HOST-SUFFIX, acebook.com, Facebook
 HOST-SUFFIX, advancediddetection.com, Facebook
-HOST-SUFFIX, askfacebook.net, Facebook
-HOST-SUFFIX, askfacebook.org, Facebook
 HOST-SUFFIX, atdmt2.com, Facebook
 HOST-SUFFIX, atlasdmt.com, Facebook
 HOST-SUFFIX, atlasonepoint.com, Facebook
@@ -19,14 +17,13 @@ HOST-SUFFIX, bookstagram.com, Facebook
 HOST-SUFFIX, botorch.org, Facebook
 HOST-SUFFIX, buck.build, Facebook
 HOST-SUFFIX, buckbuild.com, Facebook
-HOST-SUFFIX, buyingfacebooklikes.com, Facebook
 HOST-SUFFIX, buyoculus.com, Facebook
 HOST-SUFFIX, careersatfb.com, Facebook
 HOST-SUFFIX, carstagram.com, Facebook
-HOST-SUFFIX, cdninstagram.com, Facebook
 HOST-SUFFIX, celebgramme.com, Facebook
 HOST-SUFFIX, chickstagram.com, Facebook
 HOST-SUFFIX, click-url.com, Facebook
+HOST-SUFFIX, como-hackearfacebook.com, Facebook
 HOST-SUFFIX, componentkit.org, Facebook
 HOST-SUFFIX, crowdtangle.com, Facebook
 HOST-SUFFIX, dacebook.com, Facebook
@@ -125,7 +122,6 @@ HOST-SUFFIX, facetook.com, Facebook
 HOST-SUFFIX, facevbook.com, Facebook
 HOST-SUFFIX, facewbook.co, Facebook
 HOST-SUFFIX, facewook.com, Facebook
-HOST-SUFFIX, facfacebook.com, Facebook
 HOST-SUFFIX, facfebook.com, Facebook
 HOST-SUFFIX, faciometrics.com, Facebook
 HOST-SUFFIX, fackebook.com, Facebook
@@ -141,7 +137,6 @@ HOST-SUFFIX, faebookc.com, Facebook
 HOST-SUFFIX, faeboook.com, Facebook
 HOST-SUFFIX, faecebok.com, Facebook
 HOST-SUFFIX, faesebook.com, Facebook
-HOST-SUFFIX, fafacebook.com, Facebook
 HOST-SUFFIX, faicbooc.com, Facebook
 HOST-SUFFIX, fasebokk.com, Facebook
 HOST-SUFFIX, fasebook.com, Facebook
@@ -185,7 +180,6 @@ HOST-SUFFIX, fcacebook.com, Facebook
 HOST-SUFFIX, fcaebook.com, Facebook
 HOST-SUFFIX, fcebook.com, Facebook
 HOST-SUFFIX, fcebookk.com, Facebook
-HOST-SUFFIX, fcfacebook.com, Facebook
 HOST-SUFFIX, fdacebook.info, Facebook
 HOST-SUFFIX, feacboo.com, Facebook
 HOST-SUFFIX, feacbook.com, Facebook
@@ -202,7 +196,6 @@ HOST-SUFFIX, feook.com, Facebook
 HOST-SUFFIX, ferabook.com, Facebook
 HOST-SUFFIX, fescebook.com, Facebook
 HOST-SUFFIX, fesebook.com, Facebook
-HOST-SUFFIX, ffacebook.com, Facebook
 HOST-SUFFIX, fgacebook.com, Facebook
 HOST-SUFFIX, ficeboock.com, Facebook
 HOST-SUFFIX, flow.dev, Facebook
@@ -218,9 +211,6 @@ HOST-SUFFIX, freeb.com, Facebook
 HOST-SUFFIX, freebasics.com, Facebook
 HOST-SUFFIX, freebasics.net, Facebook
 HOST-SUFFIX, freebs.com, Facebook
-HOST-SUFFIX, freefacebook.com, Facebook
-HOST-SUFFIX, freefacebook.net, Facebook
-HOST-SUFFIX, freefacebookads.net, Facebook
 HOST-SUFFIX, freefblikes.com, Facebook
 HOST-SUFFIX, freindfeed.com, Facebook
 HOST-SUFFIX, frescolib.org, Facebook
@@ -233,23 +223,14 @@ HOST-SUFFIX, friendfeedmedia.com, Facebook
 HOST-SUFFIX, fsacebok.com, Facebook
 HOST-SUFFIX, fscebook.com, Facebook
 HOST-SUFFIX, fundraisingwithfacebook.com, Facebook
-HOST-SUFFIX, funnyfacebook.org, Facebook
 HOST-SUFFIX, futureofbusinesssurvey.org, Facebook
 HOST-SUFFIX, gacebook.com, Facebook
 HOST-SUFFIX, gameroom.com, Facebook
 HOST-SUFFIX, gfacecbook.com, Facebook
 HOST-SUFFIX, groups.com, Facebook
-HOST-SUFFIX, hackerfacebook.com, Facebook
-HOST-SUFFIX, hackfacebook.com, Facebook
-HOST-SUFFIX, hackfacebookid.com, Facebook
 HOST-SUFFIX, hacklang.org, Facebook
 HOST-SUFFIX, hhvm.com, Facebook
-HOST-SUFFIX, hifacebook.info, Facebook
 HOST-SUFFIX, howtohackfacebook-account.com, Facebook
-HOST-SUFFIX, hsfacebook.com, Facebook
-HOST-SUFFIX, httpfacebook.com, Facebook
-HOST-SUFFIX, httpsfacebook.com, Facebook
-HOST-SUFFIX, httpwwwfacebook.com, Facebook
 HOST-SUFFIX, i.org, Facebook
 HOST-SUFFIX, ig.me, Facebook
 HOST-SUFFIX, igcdn.com, Facebook
@@ -320,10 +301,7 @@ HOST-SUFFIX, oculusforbusiness.com, Facebook
 HOST-SUFFIX, oculusrift.com, Facebook
 HOST-SUFFIX, oculusvr.com, Facebook
 HOST-SUFFIX, ogp.me, Facebook
-HOST-SUFFIX, oninstagram.com, Facebook
 HOST-SUFFIX, online-deals.net, Facebook
-HOST-SUFFIX, online-instagram.com, Facebook
-HOST-SUFFIX, onlineinstagram.com, Facebook
 HOST-SUFFIX, opencreate.org, Facebook
 HOST-SUFFIX, opengraphprotocol.com, Facebook
 HOST-SUFFIX, opengraphprotocol.org, Facebook
@@ -347,11 +325,20 @@ HOST-SUFFIX, terragraph.com, Facebook
 HOST-SUFFIX, thefacebook.com, Facebook
 HOST-SUFFIX, thefacebook.net, Facebook
 HOST-SUFFIX, thefind.com, Facebook
-HOST-SUFFIX, theinstagramhack.com, Facebook
 HOST-SUFFIX, toplayerserver.com, Facebook
 HOST-SUFFIX, viewpointsfromfacebook.com, Facebook
 HOST-SUFFIX, wa.me, Facebook
-HOST-SUFFIX, web-instagram.net, Facebook
+HOST-SUFFIX, whatsapp-plus.info, Facebook
+HOST-SUFFIX, whatsapp-plus.me, Facebook
+HOST-SUFFIX, whatsapp-plus.net, Facebook
+HOST-SUFFIX, whatsapp.biz, Facebook
+HOST-SUFFIX, whatsapp.cc, Facebook
+HOST-SUFFIX, whatsapp.com, Facebook
+HOST-SUFFIX, whatsapp.info, Facebook
+HOST-SUFFIX, whatsapp.net, Facebook
+HOST-SUFFIX, whatsapp.org, Facebook
+HOST-SUFFIX, whatsapp.tv, Facebook
+HOST-SUFFIX, whatsappbrand.com, Facebook
 HOST-SUFFIX, whyfacebook.com, Facebook
 HOST-SUFFIX, workplace.com, Facebook
 HOST-SUFFIX, workplaceusecases.com, Facebook
@@ -359,42 +346,35 @@ HOST-SUFFIX, worldhack.com, Facebook
 HOST-SUFFIX, www-facebook.com, Facebook
 HOST-SUFFIX, wwwfacebok.com, Facebook
 HOST-SUFFIX, wwwfacebook.com, Facebook
-HOST-SUFFIX, wwwinstagram.com, Facebook
 HOST-SUFFIX, wwwmfacebook.com, Facebook
 HOST-SUFFIX, yogalayout.com, Facebook
 HOST-SUFFIX, zuckerberg.com, Facebook
 HOST-SUFFIX, zuckerberg.net, Facebook
+HOST-KEYWORD, facebook, Facebook
+HOST-KEYWORD, fbcdn, Facebook
 
-IP-CIDR,103.4.96.0/22,Facebook
-IP-CIDR,108.168.176.192/26,Facebook
-IP-CIDR,108.168.177.0/27,Facebook
-IP-CIDR,108.168.180.96/27,Facebook
-IP-CIDR,108.168.254.65/32,Facebook
-IP-CIDR,108.168.255.224/32,Facebook
-IP-CIDR,108.168.255.227/32,Facebook
-IP-CIDR,108.177.8.0/21,Facebook
-IP-CIDR,119.235.224.0/24,Facebook
-IP-CIDR,119.235.232.0/24,Facebook
-IP-CIDR,119.235.236.0/23,Facebook
-IP-CIDR,129.134.0.0/17,Facebook
-IP-CIDR,157.240.0.0/17,Facebook
-IP-CIDR,169.45.248.118/32,Facebook
-IP-CIDR,173.252.64.0/18,Facebook
-IP-CIDR,179.60.192.0/22,Facebook
-IP-CIDR,185.60.216.0/22,Facebook
-IP-CIDR,204.15.20.0/22,Facebook
-IP-CIDR,3.123.36.126/32,Facebook
-IP-CIDR,31.13.24.0/21,Facebook
-IP-CIDR,31.13.64.0/18,Facebook
-IP-CIDR,35.157.215.84/32,Facebook
-IP-CIDR,35.157.217.255/32,Facebook
-IP-CIDR,45.64.40.0/22,Facebook
-IP-CIDR,52.58.209.134/32,Facebook
-IP-CIDR,54.162.243.80/32,Facebook
-IP-CIDR,54.173.34.141/32,Facebook
-IP-CIDR,54.235.23.242/32,Facebook
-IP-CIDR,54.93.124.31/32,Facebook
-IP-CIDR,66.220.144.0/20,Facebook
-IP-CIDR,69.171.224.0/19,Facebook
-IP-CIDR,69.63.176.0/20,Facebook
-IP-CIDR,74.119.76.0/22,Facebook
+IP-CIDR, 108.168.176.192/26, Facebook
+IP-CIDR, 108.168.177.0/27, Facebook
+IP-CIDR, 108.168.180.96/27, Facebook
+IP-CIDR, 108.168.254.65/32, Facebook
+IP-CIDR, 108.168.255.224/32, Facebook
+IP-CIDR, 108.168.255.227/32, Facebook
+IP-CIDR, 108.177.8.0/21, Facebook
+IP-CIDR, 119.235.224.0/24, Facebook
+IP-CIDR, 119.235.232.0/24, Facebook
+IP-CIDR, 119.235.236.0/23, Facebook
+IP-CIDR, 129.134.0.0/17, Facebook
+IP-CIDR, 157.240.0.0/17, Facebook
+IP-CIDR, 169.45.248.118/32, Facebook
+IP-CIDR, 173.252.64.0/18, Facebook
+IP-CIDR, 3.123.36.126/32, Facebook
+IP-CIDR, 31.13.64.0/18, Facebook
+IP-CIDR, 35.157.215.84/32, Facebook
+IP-CIDR, 35.157.217.255/32, Facebook
+IP-CIDR, 52.58.209.134/32, Facebook
+IP-CIDR, 54.162.243.80/32, Facebook
+IP-CIDR, 54.173.34.141/32, Facebook
+IP-CIDR, 54.235.23.242/32, Facebook
+IP-CIDR, 54.93.124.31/32, Facebook
+IP-ASN, 32934, Facebook
+
