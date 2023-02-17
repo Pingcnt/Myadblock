@@ -55,7 +55,7 @@ host-keyword, adv.ccb.com, Ad
 
 # cmb
 host-keyword, s3gw.cmbimg.com, Ad
-host-keyword, mbads.paas.cmbchina.com, Ad
+;host-keyword, mbads.paas.cmbchina.com, Ad
 
 # zhaopin
 -host-keyword, rd5-public.zhaopin.cn, Ad
@@ -73,13 +73,13 @@ host-keyword, ynuf.aliapp.org, Ad
 -host, wannos.127.net, Ad
 
 # ctrip
-host-keyword, aw-s.tripcdn.com, Ad
-host-keyword, ws-s.tripcdn.cn, Ad
-host-keyword, im3.ctrip.com, Ad
-host-keyword, cpush.ctrip.com, Ad
-host-keyword, www.ctrip.com, Direct
-host-keyword, ma-adx.ctrip.com, Ad
-host-keyword, c-ctrip.com, Ad
+;host-keyword, aw-s.tripcdn.com, Ad
+;host-keyword, ws-s.tripcdn.cn, Ad
+;host-keyword, im3.ctrip.com, Ad
+;host-keyword, cpush.ctrip.com, Ad
+;host-keyword, www.ctrip.com, Direct
+;host-keyword, ma-adx.ctrip.com, Ad
+;host-keyword, c-ctrip.com, Ad
 
 #didi
 host-keyword, img-ys011.didistatic.com, Ad
