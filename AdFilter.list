@@ -290,6 +290,7 @@ HOST-SUFFIX, strip.alicdn.com, Ad
 HOST-SUFFIX, strip.taobaocdn.com, Ad
 HOST-SUFFIX, taobaoaliyun.cn, Ad
 HOST-SUFFIX,adash.man.aliyuncs.com, Ad
+HOST, amdc.m.taobao.com, reject
 
 # 谷歌
 HOST-SUFFIX, google-analytics.com, Ad
