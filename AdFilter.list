@@ -118,8 +118,6 @@ host-keyword, ikandy, direct
 host-keyword, mgw.m.taobao.com, Ad
 host-keyword, mobilegw.alipay.com, Ad
 host-keyword, baichuan.m.taobao.com, Ad
--host-keyword, amdc.m.taobao.com, Ad
-
 
 
 # my list end
@@ -273,7 +271,7 @@ HOST, wa.gtimg.com, Ad
 host, acs.m.taobao.com, Ad
 host, ut.taobao.com, Ad
 host, mpush-api.aliyun.com, Ad
--host, amdc.m.taobao.com, Ad
+host, amdc.m.taobao.com, Ad
 host, adashx.m.taobao.com, Ad
 HOST-SUFFIX, oss-accelerate.aliyuncs.com, Ad
 HOST-SUFFIX, unidesk.alicdn.com, Ad
@@ -290,7 +288,6 @@ HOST-SUFFIX, strip.alicdn.com, Ad
 HOST-SUFFIX, strip.taobaocdn.com, Ad
 HOST-SUFFIX, taobaoaliyun.cn, Ad
 HOST-SUFFIX,adash.man.aliyuncs.com, Ad
-HOST, amdc.m.taobao.com, reject
 
 # 谷歌
 HOST-SUFFIX, google-analytics.com, Ad
