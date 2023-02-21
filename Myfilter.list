@@ -30,9 +30,9 @@ host-suffix, trk.bonsa.net, Mail
 host-keyword, truthsocial, Mail
 
 # twitter
-host-keyword, twimg.com, All
-host-keyword, twitter.com, All
-host-keyword, xham, All
+host-keyword, twimg.com, Twitter
+host-keyword, twitter.com, Twitter
+host-keyword, xham, Twitter
 
 # twitch
 host-keyword, jtvnw, All
