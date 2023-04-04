@@ -54,7 +54,7 @@ host-keyword, exservice.12306.cn, Ad
 host-keyword, adv.ccb.com, Ad
 
 # cmb
-host-keyword, s3gw.cmbimg.com, Ad
+;host-keyword, s3gw.cmbimg.com, Ad
 ;host-keyword, mbads.paas.cmbchina.com, Ad
 
 # zhaopin
@@ -118,7 +118,6 @@ host-keyword, ikandy, direct
 host-keyword, mgw.m.taobao.com, Ad
 host-keyword, mobilegw.alipay.com, Ad
 host-keyword, baichuan.m.taobao.com, Ad
-
 
 # my list end
 
