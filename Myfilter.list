@@ -4,8 +4,15 @@
 ip-cidr, 8.209.211.0/22, direct
 
 # microsoft
-host-keyword, cn.bing, direct
-host-keyword, onedrive.live, proxy
+host-keyword, cn.bing, Microsoft
+host-keyword, onedrive.live, Microsoft
+host-keyword, in.appcenter.ms, Microsoft
+host-keyword, services.bingapis.com, Microsoft
+host-keyword, odc.officeapps.live.com, Microsoft
+host-keyword, gateway.bingviz.microsoftapp.net, Microsoft
+host-keyword, self.events.data.microsoft.com, Microsoft
+host-keyword, in.appcenter.ms, Microsoft
+host-keyword, bing.com, Microsoft
 
 # biligame
 host-keyword, biligame, direct
@@ -15,6 +22,7 @@ host-keyword, biligame, direct
 
 # PayPal
 host-keyword, paypal, US
+host-keyword, www.paypalobjects.com, US
 
 # Facebook
 host-keyword, facebook, Mail
@@ -48,7 +56,7 @@ host-keyword, yt3.ggpht, Google
 # google
 host-keyword, goog, Google
 host-keyword, google, Google
-host-keyword, www.gstatic.com, Ad
+;host-keyword, www.gstatic.com, Ad
 
 # app
 host-keyword, app-measurement.com, Ad
@@ -65,10 +73,34 @@ host-keyword, mxomo.com, proxy
 host-keyword, sms-activate, US
 host-keyword, smsactivate, US
 
-# openai
-host-keyword, intercom.io, All
-host-keyword, hsforms.com, All
-host-keyword, hcaptcha.com, All
-host-keyword, vimeocdn.com, All
-host-keyword, akamaized.net, All
-host-keyword, openai.com, All
+# OpenAI
+host-keyword, intercom.io, Microsoft
+host-keyword, hsforms.com, Microsoft
+host-keyword, hcaptcha.com, Microsoft
+host-keyword, vimeocdn.com, Microsoft
+host-keyword, akamaized.net, Microsoft
+host-keyword, openai.com, Microsoft
+host-keyword, clients3.google.com, Microsoft
+host-keyword, adjust, Microsoft
+host-keyword, intercom.io, Microsoft
+host-keyword, cdn.jsdelivr.net, Microsoft
+host-keyword, player.vimeo.com, Microsoft
+host-keyword, o33249.ingest.sentry.io, Microsoft
+host-keyword, openai, Microsoft
+host-keyword, cdn.auth0.com, Microsoft
+host-keyword, challenges.cloudflare.com, Microsoft
+
+# Ultramobile
+host-keyword, sdk.iad-05.braze.com, Microsoft
+host-keyword, ocsp.r2m01.amazontrust.com, Microsoft
+host-keyword, launchdarkly, Microsoft
+host-keyword, assets.mintmobile.com, Microsoft
+host-keyword, ultramobile, Microsoft
+
+# Discord
+host-keyword, paimon.moe, HK
+host-keyword, discord, US
+host-keyword, latency.discord.media, US
+host-keyword, cdn.discordapp.com, US
+host-keyword, ingest.sentry.io, US
+host-keyword, discord.com, US
