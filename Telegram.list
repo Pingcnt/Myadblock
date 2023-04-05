@@ -1,0 +1,45 @@
+# NAME: Telegram
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-02-19 16:29:50
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 20
+# IP-ASN: 5
+# IP-CIDR: 5
+# IP6-CIDR: 4
+# TOTAL: 35
+HOST-SUFFIX,comments.app,All
+HOST-SUFFIX,contest.com,All
+HOST-SUFFIX,graph.org,All
+HOST-SUFFIX,mbrx.app,All
+HOST-SUFFIX,quiz.directory,All
+HOST-SUFFIX,stel.com,All
+HOST-SUFFIX,t.me,All
+HOST-SUFFIX,tdesktop.com,All
+HOST-SUFFIX,telega.one,All
+HOST-SUFFIX,telegra.ph,All
+HOST-SUFFIX,telegram-cdn.org,All
+HOST-SUFFIX,telegram.dog,All
+HOST-SUFFIX,telegram.me,All
+HOST-SUFFIX,telegram.org,All
+HOST-SUFFIX,telegram.space,All
+HOST-SUFFIX,telegramdownload.com,All
+HOST-SUFFIX,telesco.pe,All
+HOST-SUFFIX,tg.dev,All
+HOST-SUFFIX,tx.me,All
+HOST-SUFFIX,usercontent.dev,All
+HOST-KEYWORD,nicegram,All
+IP-CIDR,109.239.140.0/24,All
+IP-CIDR,149.154.160.0/20,All
+IP-CIDR,5.28.195.163/32,All
+IP-CIDR,5.28.195.205/32,All
+IP-CIDR,91.108.0.0/16,All
+IP6-CIDR,2001:67c:4e8::/48,All
+IP6-CIDR,2001:b28:f23c::/47,All
+IP6-CIDR,2001:b28:f23f::/48,All
+IP6-CIDR,2a0a:f280::/32,All
+IP-ASN,211157,All
+IP-ASN,44907,All
+IP-ASN,59930,All
+IP-ASN,62014,All
+IP-ASN,62041,All
