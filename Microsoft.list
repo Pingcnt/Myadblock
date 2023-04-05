@@ -26,8 +26,7 @@ HOST,bg.v4.a.dl.ws.microsoft.com,Microsoft
 HOST,bg4.v4.a.dl.ws.microsoft.com,Microsoft
 HOST,bj1.api.bing.com,Microsoft
 HOST,cdn.marketplaceimages.windowsphone.com,Microsoft
-HOST,
-.windowssearch.com,Microsoft
+HOST,cn.windowssearch.com,DIRECT
 HOST,ctldl.windowsupdate.com,Microsoft
 HOST,default.exp-tas.com,Microsoft
 HOST,developer.microsoft.com,Microsoft
