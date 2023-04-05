@@ -7,10 +7,10 @@ host-keyword, cn.bing, DIRECT
 # UPDATED: 2023-02-15 23:47:12
 # HOST: 4
 # TOTAL: 4
-HOST,edge.activity.windows.com,MicrosoftEdge
-HOST,edge.microsoft.com,MicrosoftEdge
-HOST,iecvlist.microsoft.com,MicrosoftEdge
-HOST,msedge.api.cdp.microsoft.com,MicrosoftEdge
+HOST,edge.activity.windows.com,Microsoft
+HOST,edge.microsoft.com,Microsoft
+HOST,iecvlist.microsoft.com,Microsoft
+HOST,msedge.api.cdp.microsoft.com,Microsoft
 
 # NAME: Microsoft
 # AUTHOR: blackmatrix7
