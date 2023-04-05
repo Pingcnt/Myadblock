@@ -1,2 +1,0 @@
-# For Personal Use
-# nothing
