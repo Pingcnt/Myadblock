@@ -2,7 +2,6 @@
 
 host-keyword, appspot, Google
 host-keyword, blogspot, Google
-;host-keyword, gmail, Google
 host-keyword, google, Google
 host-keyword, goog, Google
 ;host-keyword, gstatic, Google
@@ -255,7 +254,6 @@ HOST-SUFFIX, getoutline.org, Google
 HOST-SUFFIX, gipscorp.com, Google
 HOST-SUFFIX, gkecnapps.cn, Google
 HOST-SUFFIX, globaledu.org, Google
-HOST-SUFFIX, gmail.com, Google
 HOST-SUFFIX, gmodules.com, Google
 HOST-SUFFIX, go-lang.com, Google
 HOST-SUFFIX, go-lang.net, Google
