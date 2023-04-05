@@ -3,26 +3,13 @@
 # 
 ip-cidr, 8.209.211.0/22, direct
 
-# microsoft
-host-keyword, cn.bing, Microsoft
-host-keyword, onedrive.live, Microsoft
-host-keyword, in.appcenter.ms, Microsoft
-host-keyword, services.bingapis.com, Microsoft
-host-keyword, odc.officeapps.live.com, Microsoft
-host-keyword, gateway.bingviz.microsoftapp.net, Microsoft
-host-keyword, self.events.data.microsoft.com, Microsoft
-host-keyword, in.appcenter.ms, Microsoft
-host-keyword, bing.com, Microsoft
+# Microsoft
 
 # biligame
 host-keyword, biligame, direct
 
 # hulu
 #host-keyword, hulu, US
-
-# PayPal
-host-keyword, paypal, US
-host-keyword, www.paypalobjects.com, US
 
 # Facebook
 host-keyword, facebook, Mail
@@ -49,14 +36,11 @@ host-keyword, twitch, All
 host-keyword, amazon-adsystem, Ad
 
 # youtube
-host-keyword, youtube, Google
-host-keyword, ytimg, Google
-host-keyword, yt3.ggpht, Google
+host-keyword, youtube, YouTube
 
 # google
 host-keyword, goog, Google
 host-keyword, google, Google
-;host-keyword, www.gstatic.com, Ad
 
 # app
 host-keyword, app-measurement.com, Ad
@@ -99,8 +83,3 @@ host-keyword, ultramobile, Microsoft
 
 # Discord
 host-keyword, paimon.moe, HK
-host-keyword, discord, US
-host-keyword, latency.discord.media, US
-host-keyword, cdn.discordapp.com, US
-host-keyword, ingest.sentry.io, US
-host-keyword, discord.com, US
