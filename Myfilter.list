@@ -58,20 +58,19 @@ host-keyword, sms-activate, US
 host-keyword, smsactivate, US
 
 # OpenAI
+host-keyword, openai, Microsoft
+host-keyword, openai.com, Microsoft
+host-suffix , identrust.com, Microsoft
+host-keyword, auth0.com, Microsoft
 host-keyword, intercom.io, Microsoft
 host-keyword, hsforms.com, Microsoft
 host-keyword, hcaptcha.com, Microsoft
 host-keyword, vimeocdn.com, Microsoft
 host-keyword, akamaized.net, Microsoft
-host-keyword, openai.com, Microsoft
 host-keyword, clients3.google.com, Microsoft
-host-keyword, adjust, Microsoft
-host-keyword, intercom.io, Microsoft
 host-keyword, cdn.jsdelivr.net, Microsoft
 host-keyword, player.vimeo.com, Microsoft
-host-keyword, o33249.ingest.sentry.io, Microsoft
-host-keyword, openai, Microsoft
-host-keyword, cdn.auth0.com, Microsoft
+host-keyword, ingest.sentry.io, Microsoft
 host-keyword, challenges.cloudflare.com, Microsoft
 
 # Ultramobile
