@@ -43,6 +43,18 @@ host-keyword, ads.amap.com, Ad
 host-keyword, awaken.amap.com, Ad
 host-keyword, appsflyer, Ad
 
+#testing
+host-keyword, bdstatic, Ad
+host-keyword, dwibjkdsn, Ad
+host-keyword, sihsvaz, Ad
+host-keyword, qriujsbnp, Ad
+host-keyword, gdjdksnq, Ad
+host-keyword, gowan.com, Ad
+host-keyword, sdb.amazonaws.com, Ad
+host-keyword, nowpic.gtimg.com, Ad
+host, thegay.com, proxy
+
+
 # 12306
 host-keyword, link.12306.cn, Ad
 host-keyword, ad.12306.cn, Ad
