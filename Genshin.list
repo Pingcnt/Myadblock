@@ -21,11 +21,11 @@ host-keyword, sdk-os-static.hoyoverse.com, HoyoIP
 host-keyword, hk4e-sdk-os-s.hoyoverse.com, HoyoIP
 host-keyword, sg-public-data-api.hoyoverse.com, HoyoIP
 
-host-keyword, webstatic-sea.hoyoverse.com, HK
-host-keyword, upload-static.hoyoverse.com, HK
-host-keyword, act.hoyoverse.com, HK
-host-keyword, sea.hoyoverse.com, HK
-host-keyword, sg.hoyoverse.com, HK
+;host-keyword, webstatic-sea.hoyoverse.com, HK
+;host-keyword, upload-static.hoyoverse.com, HK
+;host-keyword, act.hoyoverse.com, HK
+;host-keyword, sea.hoyoverse.com, HK
+;host-keyword, sg.hoyoverse.com, HK
 
 # Yuanshen
 host-keyword, dispatch.yuanshen.com, Hoyo
