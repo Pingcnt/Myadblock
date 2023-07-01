@@ -43,7 +43,7 @@ host-keyword, goog, Google
 host-keyword, google, Google
 
 # app
-host-keyword, app-measurement.com, Ad
+;host-keyword, app-measurement.com, Ad
 host-keyword, app.adjust, Ad
 
 # tiktok
