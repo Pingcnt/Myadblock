@@ -1,4 +1,4 @@
-
+#Genshin Impact
 ip-cidr, 3.113.119.0/22, HoyoIP
 ip-cidr, 3.114.222.0/22, HoyoIP
 ip-cidr, 3.115.141.0/22, HoyoIP
@@ -64,3 +64,29 @@ ip-cidr, 54.238.251.0/22, HoyoIP
 ip-cidr, 54.248.40.0/22, HoyoIP
 
 ip-cidr, 175.41.217.0/22, HoyoIP
+
+#Honkai Star Rail
+ip-cidr, 8.209.0.0/23, HoyoIP
+ip-cidr, 8.209.197.172/23, HoyoIP
+ip-cidr, 8.209.198.0/23, HoyoIP
+ip-cidr, 8.209.200.0/23, HoyoIP
+ip-cidr, 8.209.212.0/23, HoyoIP
+ip-cidr, 8.209.214.0/23, HoyoIP
+ip-cidr, 8.209.242.0/23, HoyoIP
+ip-cidr, 8.209.247.0/23, HoyoIP
+ip-cidr, 8.209.248.131/23, HoyoIP
+ip-cidr, 8.209.252.0/23, HoyoIP
+ip-cidr, 8.209.254.0/23, HoyoIP
+
+ip-cidr, 47.74.19.0/23, HoyoIP
+ip-cidr, 47.74.50.0/23, HoyoIP
+ip-cidr, 47.91.14.0/23, HoyoIP
+ip-cidr, 47.245.0.0/23, HoyoIP
+ip-cidr, 47.245.13.0/23, HoyoIP
+ip-cidr, 47.245.30.0/23, HoyoIP
+ip-cidr, 47.245.33.0/23, HoyoIP
+ip-cidr, 47.245.53.0/23, HoyoIP
+ip-cidr, 47.245.57.0/23, HoyoIP
+ip-cidr, 47.245.60.0/23, HoyoIP
+ip-cidr, 47.245.62.0/23, HoyoIP
+
