@@ -1,9 +1,7 @@
-host-keyword, paypal, PayPal
-
 # NAME: PayPal
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-24 02:15:42
+# UPDATED: 2024-02-27 02:11:54
 # HOST-KEYWORD: 1
 # HOST-SUFFIX: 246
 # USER-AGENT: 1
@@ -14,12 +12,12 @@ HOST-SUFFIX,account-paypal.org,PayPal
 HOST-SUFFIX,accountpaypal.com,PayPal
 HOST-SUFFIX,accountpaypal.net,PayPal
 HOST-SUFFIX,accountpaypal.org,PayPal
-;HOST-SUFFIX,anfutong.cn,PayPal
-;HOST-SUFFIX,anfutong.com,PayPal
-;HOST-SUFFIX,anfutong.com.cn,PayPal
-;HOST-SUFFIX,beibao.cn,PayPal
-;HOST-SUFFIX,beibao.com,PayPal
-;HOST-SUFFIX,beibao.com.cn,PayPal
+HOST-SUFFIX,anfutong.cn,PayPal
+HOST-SUFFIX,anfutong.com,PayPal
+HOST-SUFFIX,anfutong.com.cn,PayPal
+HOST-SUFFIX,beibao.cn,PayPal
+HOST-SUFFIX,beibao.com,PayPal
+HOST-SUFFIX,beibao.com.cn,PayPal
 HOST-SUFFIX,bill-safe.com,PayPal
 HOST-SUFFIX,billmelater.com,PayPal
 HOST-SUFFIX,billmelater.info,PayPal
@@ -161,21 +159,21 @@ HOST-SUFFIX,paypal-team.com,PayPal
 HOST-SUFFIX,paypal-viewpoints.net,PayPal
 HOST-SUFFIX,paypal.ca,PayPal
 HOST-SUFFIX,paypal.com,PayPal
-;HOST-SUFFIX,paypal.com.cn,PayPal
+HOST-SUFFIX,paypal.com.cn,PayPal
 HOST-SUFFIX,paypal.com.hk,PayPal
 HOST-SUFFIX,paypal.com.sg,PayPal
 HOST-SUFFIX,paypal.hk,PayPal
 HOST-SUFFIX,paypal.info,PayPal
 HOST-SUFFIX,paypal.jp,PayPal
 HOST-SUFFIX,paypal.me,PayPal
-;HOST-SUFFIX,paypal.net.cn,PayPal
-;HOST-SUFFIX,paypal.org.cn,PayPal
+HOST-SUFFIX,paypal.net.cn,PayPal
+HOST-SUFFIX,paypal.org.cn,PayPal
 HOST-SUFFIX,paypal.so,PayPal
 HOST-SUFFIX,paypal.us,PayPal
 HOST-SUFFIX,paypalbeacon.com,PayPal
 HOST-SUFFIX,paypalbenefits.com,PayPal
 HOST-SUFFIX,paypalbrasil.com,PayPal
-;HOST-SUFFIX,paypalcommunity.cn,PayPal
+HOST-SUFFIX,paypalcommunity.cn,PayPal
 HOST-SUFFIX,paypalcommunity.com,PayPal
 HOST-SUFFIX,paypalcommunity.net,PayPal
 HOST-SUFFIX,paypalcommunity.org,PayPal
@@ -183,9 +181,9 @@ HOST-SUFFIX,paypalcorp.com,PayPal
 HOST-SUFFIX,paypalcredit.com,PayPal
 HOST-SUFFIX,paypalcreditcard.com,PayPal
 HOST-SUFFIX,paypalgivingfund.org,PayPal
-;HOST-SUFFIX,paypalhere.cn,PayPal
+HOST-SUFFIX,paypalhere.cn,PayPal
 HOST-SUFFIX,paypalhere.com,PayPal
-;HOST-SUFFIX,paypalhere.com.cn,PayPal
+HOST-SUFFIX,paypalhere.com.cn,PayPal
 HOST-SUFFIX,paypalhere.info,PayPal
 HOST-SUFFIX,paypalhere.net,PayPal
 HOST-SUFFIX,paypalhere.org,PayPal
@@ -247,11 +245,11 @@ HOST-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com,PayPal
 HOST-SUFFIX,www-paypal.info,PayPal
 HOST-SUFFIX,www-paypal.us,PayPal
 HOST-SUFFIX,wwwxoom.com,PayPal
-;HOST-SUFFIX,xn--bnq297cix3a.cn,PayPal
+HOST-SUFFIX,xn--bnq297cix3a.cn,PayPal
 HOST-SUFFIX,xoom-experience.com,PayPal
 HOST-SUFFIX,xoom.com,PayPal
 HOST-SUFFIX,xoom.io,PayPal
-;HOST-SUFFIX,xoom.net.cn,PayPal
+HOST-SUFFIX,xoom.net.cn,PayPal
 HOST-SUFFIX,xoom.us,PayPal
 HOST-SUFFIX,xoomcom.com,PayPal
 HOST-KEYWORD,paypal,PayPal
