@@ -75,6 +75,7 @@ ip-cidr, 8.209.214.0/23, HoyoIP
 ip-cidr, 8.209.242.0/23, HoyoIP
 ip-cidr, 8.209.247.0/23, HoyoIP
 ip-cidr, 8.209.248.131/23, HoyoIP
+ip-cidr, 8.209.251.0/23, HoyoIP
 ip-cidr, 8.209.252.0/23, HoyoIP
 ip-cidr, 8.209.254.0/23, HoyoIP
 
