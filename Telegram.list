@@ -9,30 +9,30 @@
 # IP-CIDR: 4
 # IP6-CIDR: 4
 # TOTAL: 38
-HOST,api.imem.app,Telegram ,Global
-HOST,api.swiftgram.app,Telegram ,Global
-HOST-SUFFIX,cdn-telegram.org,Telegram ,Global
-HOST-SUFFIX,comments.app,Telegram ,Global
-HOST-SUFFIX,contest.com,Telegram ,Global
-HOST-SUFFIX,graph.org,Telegram ,Global
-HOST-SUFFIX,legra.ph,Telegram ,Global
-HOST-SUFFIX,mbrx.app,Telegram ,Global
-HOST-SUFFIX,quiz.directory,Telegram ,Global
-HOST-SUFFIX,stel.com,Telegram ,Global
-HOST-SUFFIX,t.me,Telegram ,Global
-HOST-SUFFIX,tdesktop.com,Telegram ,Global
-HOST-SUFFIX,telega.one,Telegram ,Global
-HOST-SUFFIX,telegra.ph,Telegram ,Global
-HOST-SUFFIX,telegram-cdn.org,Telegram ,Global
-HOST-SUFFIX,telegram.dog,Telegram ,Global
-HOST-SUFFIX,telegram.me,Telegram ,Global
-HOST-SUFFIX,telegram.org,Telegram ,Global
-HOST-SUFFIX,telegram.space,Telegram ,Global
-HOST-SUFFIX,telegramdownload.com,Telegram ,Global
-HOST-SUFFIX,telesco.pe,Telegram ,Global
-HOST-SUFFIX,tg.dev,Telegram ,Global
-HOST-SUFFIX,tx.me,Telegram ,Global
-HOST-SUFFIX,usercontent.dev,Telegram ,Global
+HOST,api.imem.app,Telegram
+HOST,api.swiftgram.app,Telegram
+HOST-SUFFIX,cdn-telegram.org,Telegram
+HOST-SUFFIX,comments.app,Telegram
+HOST-SUFFIX,contest.com,Telegram
+HOST-SUFFIX,graph.org,Telegram
+HOST-SUFFIX,legra.ph,Telegram
+HOST-SUFFIX,mbrx.app,Telegram
+HOST-SUFFIX,quiz.directory,Telegram
+HOST-SUFFIX,stel.com,Telegram
+HOST-SUFFIX,t.me,Telegram
+HOST-SUFFIX,tdesktop.com,Telegram
+HOST-SUFFIX,telega.one,Telegram
+HOST-SUFFIX,telegra.ph,Telegram
+HOST-SUFFIX,telegram-cdn.org,Telegram
+HOST-SUFFIX,telegram.dog,Telegram
+HOST-SUFFIX,telegram.me,Telegram
+HOST-SUFFIX,telegram.org,Telegram
+HOST-SUFFIX,telegram.space,Telegram
+HOST-SUFFIX,telegramdownload.com,Telegram
+HOST-SUFFIX,telesco.pe,Telegram
+HOST-SUFFIX,tg.dev,Telegram
+HOST-SUFFIX,tx.me,Telegram
+HOST-SUFFIX,usercontent.dev,Telegram
 HOST-KEYWORD,nicegram,Telegram ,Global
 IP-CIDR,109.239.140.0/24,Telegram ,Global
 IP-CIDR,149.154.160.0/20,Telegram ,Global
