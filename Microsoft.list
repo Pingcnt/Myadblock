@@ -4,7 +4,7 @@ host-keyword, cn.bing, DIRECT
 # NAME: Microsoft
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-25 16:01:10
+# UPDATED: 2024-07-03 16:14:52
 # HOST: 41
 # HOST-KEYWORD: 4
 # HOST-SUFFIX: 662
@@ -164,6 +164,7 @@ HOST-SUFFIX,bing.net,Microsoft
 HOST-SUFFIX,bing123.com,Microsoft
 HOST-SUFFIX,bing135.com,Microsoft
 HOST-SUFFIX,bing4.com,Microsoft
+HOST-SUFFIX,bingads.com,Microsoft
 HOST-SUFFIX,bingagencyawards.com,Microsoft
 HOST-SUFFIX,bingapis.com,Microsoft
 HOST-SUFFIX,bingapistatistics.com,Microsoft
@@ -368,6 +369,7 @@ HOST-SUFFIX,microsoft.vn,Microsoft
 HOST-SUFFIX,microsoft365.com,Microsoft
 HOST-SUFFIX,microsoftaccountguard.com,Microsoft
 HOST-SUFFIX,microsoftadc.com,Microsoft
+HOST-SUFFIX,microsoftads.com,Microsoft
 HOST-SUFFIX,microsoftadvertising.com,Microsoft
 HOST-SUFFIX,microsoftadvertisingregionalawards.com,Microsoft
 HOST-SUFFIX,microsoftaffiliates.com,Microsoft
@@ -457,6 +459,7 @@ HOST-SUFFIX,mpnevolution.com,Microsoft
 HOST-SUFFIX,ms-studiosmedia.com,Microsoft
 HOST-SUFFIX,ms365surfaceoffer.com,Microsoft
 HOST-SUFFIX,msa.akadns6.net,Microsoft
+HOST-SUFFIX,msads.net,Microsoft
 HOST-SUFFIX,msappproxy.cn,Microsoft
 HOST-SUFFIX,msappproxy.net,Microsoft
 HOST-SUFFIX,msauth.cn,Microsoft
