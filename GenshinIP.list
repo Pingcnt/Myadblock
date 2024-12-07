@@ -4,6 +4,7 @@ ip-cidr, 3.114.222.0/22, HoyoIP
 ip-cidr, 3.115.141.0/22, HoyoIP
 
 ip-cidr, 8.209.251.0/23, HoyoIP
+ip-cidr, 8.209.211.0/22, direct
 
 ip-cidr, 13.112.150.0/22, HoyoIP
 ip-cidr, 13.115.81.0/22, HoyoIP
