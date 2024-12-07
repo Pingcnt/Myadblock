@@ -1,7 +1,7 @@
 # NAME: Telegram
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-25 16:02:56
+# UPDATED: 2024-07-03 16:16:08
 # HOST: 2
 # HOST-KEYWORD: 1
 # HOST-SUFFIX: 22
@@ -9,41 +9,41 @@
 # IP-CIDR: 4
 # IP6-CIDR: 4
 # TOTAL: 38
-HOST,api.imem.app,All
-HOST,api.swiftgram.app,All
-HOST-SUFFIX,cdn-telegram.org,All
-HOST-SUFFIX,comments.app,All
-HOST-SUFFIX,contest.com,All
-HOST-SUFFIX,graph.org,All
-HOST-SUFFIX,legra.ph,All
-HOST-SUFFIX,mbrx.app,All
-HOST-SUFFIX,quiz.directory,All
-HOST-SUFFIX,stel.com,All
-HOST-SUFFIX,t.me,All
-HOST-SUFFIX,tdesktop.com,All
-HOST-SUFFIX,telega.one,All
-HOST-SUFFIX,telegra.ph,All
-HOST-SUFFIX,telegram-cdn.org,All
-HOST-SUFFIX,telegram.dog,All
-HOST-SUFFIX,telegram.me,All
-HOST-SUFFIX,telegram.org,All
-HOST-SUFFIX,telegram.space,All
-HOST-SUFFIX,telegramdownload.com,All
-HOST-SUFFIX,telesco.pe,All
-HOST-SUFFIX,tg.dev,All
-HOST-SUFFIX,tx.me,All
-HOST-SUFFIX,usercontent.dev,All
-HOST-KEYWORD,nicegram,All
-IP-CIDR,109.239.140.0/24,All
-IP-CIDR,149.154.160.0/20,All
-IP-CIDR,5.28.192.0/18,All
-IP-CIDR,91.108.0.0/16,All
-IP6-CIDR,2001:67c:4e8::/48,All
-IP6-CIDR,2001:b28:f23c::/47,All
-IP6-CIDR,2001:b28:f23f::/48,All
-IP6-CIDR,2a0a:f280::/29,All
-IP-ASN,211157,All
-IP-ASN,44907,All
-IP-ASN,59930,All
-IP-ASN,62014,All
-IP-ASN,62041,All
+HOST,api.imem.app,Telegram ,Global
+HOST,api.swiftgram.app,Telegram ,Global
+HOST-SUFFIX,cdn-telegram.org,Telegram ,Global
+HOST-SUFFIX,comments.app,Telegram ,Global
+HOST-SUFFIX,contest.com,Telegram ,Global
+HOST-SUFFIX,graph.org,Telegram ,Global
+HOST-SUFFIX,legra.ph,Telegram ,Global
+HOST-SUFFIX,mbrx.app,Telegram ,Global
+HOST-SUFFIX,quiz.directory,Telegram ,Global
+HOST-SUFFIX,stel.com,Telegram ,Global
+HOST-SUFFIX,t.me,Telegram ,Global
+HOST-SUFFIX,tdesktop.com,Telegram ,Global
+HOST-SUFFIX,telega.one,Telegram ,Global
+HOST-SUFFIX,telegra.ph,Telegram ,Global
+HOST-SUFFIX,telegram-cdn.org,Telegram ,Global
+HOST-SUFFIX,telegram.dog,Telegram ,Global
+HOST-SUFFIX,telegram.me,Telegram ,Global
+HOST-SUFFIX,telegram.org,Telegram ,Global
+HOST-SUFFIX,telegram.space,Telegram ,Global
+HOST-SUFFIX,telegramdownload.com,Telegram ,Global
+HOST-SUFFIX,telesco.pe,Telegram ,Global
+HOST-SUFFIX,tg.dev,Telegram ,Global
+HOST-SUFFIX,tx.me,Telegram ,Global
+HOST-SUFFIX,usercontent.dev,Telegram ,Global
+HOST-KEYWORD,nicegram,Telegram ,Global
+IP-CIDR,109.239.140.0/24,Telegram ,Global
+IP-CIDR,149.154.160.0/20,Telegram ,Global
+IP-CIDR,5.28.192.0/18,Telegram ,Global
+IP-CIDR,91.108.0.0/16,Telegram ,Global
+IP6-CIDR,2001:67c:4e8::/48,Telegram ,Global
+IP6-CIDR,2001:b28:f23c::/47,Telegram ,Global
+IP6-CIDR,2001:b28:f23f::/48,Telegram ,Global
+IP6-CIDR,2a0a:f280::/29,Telegram ,Global
+IP-ASN,211157,Telegram ,Global
+IP-ASN,44907,Telegram ,Global
+IP-ASN,59930,Telegram ,Global
+IP-ASN,62014,Telegram ,Global
+IP-ASN,62041,Telegram ,Global
